@@ -1,0 +1,4336 @@
+﻿Hi
+Am fine. How are you?
+What is your name?
+What can you do?
+Is that all you can do?
+Okay, thats nice to know
+Can I ask anything about Kolkata?
+What are the most famous locations of Kolkata?
+Whoa, thats a lot of places you suggested.
+Tell me more about Victorial Memorial.
+Tell me more about Howrah Bridge.
+Tell me more about Maidan.
+Tell me more about Indian Museum.
+Tell me more about Fort William.
+Tell me more about Birla Planetarium.
+Tell me more about Marble Palace.
+Tell me more about St Pauls Cathedral.
+Tell me more about Science City.
+Tell me more about Birla Mandir.
+Tell me more about Eden Gardens.
+Tell me more about Jorasanko Thakurbari.
+Tell me more about Rabindra Sarobar.
+Tell me more about Shobhabajar Rajbari.
+Tell me more about Kalighat Temple.
+Tell me more about Botanical Gardens.
+Tell me more about Alipore Zoo.
+Tell me more about Prinsep Ghat.
+Tell me more about Eco Park.
+Tell me more about Nicco Park.
+Tell me more about Park Street.
+Tell me more about South Park Street Cemetery.
+Tell me more about National Library.
+Tell me more about Kumortuli.
+Tell me more about Nandan.
+Tell me more about Mothers Wax Museum.
+Tell me more about Biswa Bangla Gate.
+Tell me more about Salt Lake Stadium.
+Is Kolkata beautiful?
+Have you been to Kolkata?
+What is there to see in Kolkata?
+Tell me about Victorial Memorial.
+Tell me about Howrah Bridge.
+Tell me about Maidan.
+Tell me about Indian Museum.
+Tell me about Fort William.
+Tell me about Birla Planetarium.
+Tell me about Marble Palace.
+Tell me about St Pauls Cathedral.
+Tell me about Science City.
+Tell me about Birla Mandir.
+Tell me about Eden Gardens.
+Tell me about Jorasanko Thakurbari.
+Tell me about Rabindra Sarobar.
+Tell me about Shobhabajar Rajbari.
+Tell me about Kalighat Temple.
+Tell me about Botanical Gardens.
+Tell me about Alipore Zoo.
+Tell me about Prinsep Ghat.
+Tell me about Eco Park.
+Tell me about Nicco Park.
+Tell me about Park Street.
+Tell me about South Park Street Cemetery.
+Tell me about National Library.
+Tell me about Kumortuli.
+Tell me about Nandan.
+Tell me about Mothers Wax Museum.
+Tell me about Biswa Bangla Gate.
+Tell me about Salt Lake Stadium.
+Okay thanks
+Thanks a lot
+Can you tell me anything about Kolkata?
+How much do you know?
+Where can I travel in Kolkata?
+Where can I tour in Kolkata?
+Which places can I visit in Kolkata?
+Suggest some famous places in Kolkata
+Suggest some tourist places in Kolkata
+Is Kolkata a beautiful place?
+Suggest me some famous restaurant in Kolkata
+What are some good restaurants in Kolkata?
+Where can I get good food in Kolkata?
+Places for good food in Kolkata?
+What are you?
+Can I ask you anything about Kolkata?
+Do you have a name?
+Nice name
+Can you suggest me places to visit in Kolkata?
+Can you suggest me restaurants to eat in Kolkata?
+Okay thanks a lot
+What are the cuisines available in Kolkata?
+Suggest me some Bengali cuisine restaurants in Kolkata.
+Whoa, thats a lot of places you suggested.
+Suggest me some North Indian cuisine restaurants in Kolkata.
+Thanks a lot for the information
+Suggest me some Mughlai cuisine restaurants in Kolkata.
+Whoa, thats a lot of places you suggested.
+Suggest me some Chinese cuisine restaurants in Kolkata.
+Okay nice to know
+Suggest me some American cuisine restaurants in Kolkata.
+Good suggestions
+Suggest me some Vegetarian cuisine restaurants in Kolkata.
+Okay thanks for telling
+Suggest me some Seafood restaurants in Kolkata.
+Okay thanks for helping
+Suggest me some Fast food restaurants in Kolkata.
+Thanks a lot
+Suggest me some Cafes in Kolkata.
+Okay
+Suggest me some Buffet restaurants in Kolkata.
+Nice
+Ever been to Kolkata?
+How do you know about Kolkata?
+Can I ask you anything about Kolkata?
+You can answer anything?
+Suggest some places to tour
+What is Victorial Memorial.
+What is Howrah Bridge.
+What is Maidan.
+What is Indian Museum.
+What is Fort William.
+What is Birla Planetarium.
+What is Marble Palace.
+What is St Pauls Cathedral.
+What is Science City.
+What is Birla Mandir.
+What is Eden Gardens.
+What is Jorasanko Thakurbari.
+What is Rabindra Sarobar.
+What is Shobhabajar Rajbari.
+What is Kalighat Temple.
+What is Botanical Gardens.
+What is Alipore Zoo.
+What is Prinsep Ghat.
+What is Eco Park.
+What is Nicco Park.
+What is Park Street.
+What is South Park Street Cemetery.
+What is National Library.
+What is Kumortuli.
+What is Nandan.
+What is Mothers Wax Museum.
+What is Biswa Bangla Gate.
+What is Salt Lake Stadium.
+Bengali cuisine restaurants
+Whoa, thats a lot of places you suggested.
+North Indian cuisine restaurants
+Thanks a lot
+Mughlai cuisine restaurants
+Whoa, thats a lot of places you suggested.
+Chinese cuisine restaurants
+Nice to know
+American cuisine restaurants
+Good suggestions Kolly
+Vegetarian cuisine restaurants
+Okay thanks
+Seafood restaurants
+Okay thanks for helping
+Fast food restaurants
+Thanks a lot
+Cafes
+Okay
+Buffet restaurants
+Nice
+Kolkata is a beautiful city is not it?
+Have you ever been to Kolkata?
+Can you tell me places to tour in Kolkata?
+Can you tell me name of famous restaurants in Kolkata?
+Are there any famous locations in Kolkata?
+Bengali?
+Whoa, thats a lot of places you suggested.
+North Indian?
+Thanks a lot
+Mughlai?
+Whoa, thats a lot of places you suggested.
+Chinese?
+Nice to know
+American?
+Good suggestions Kolly
+Vegetarian?
+Okay thanks for the help
+Seafood?
+Okay thanks for helping
+Fast food restaurants?
+Thanks a lot
+Cafes?
+Okay
+Buffet?
+Nice
+You do know a lot
+Give me some names of restaurants
+Famous restaurants?
+Famous places to eat?
+Victorial Memorial.
+Howrah Bridge.
+Maidan.
+Indian Museum.
+Fort William.
+Birla Planetarium.
+Marble Palace.
+St Pauls Cathedral.
+Science City.
+Birla Mandir.
+Eden Gardens.
+Jorasanko Thakurbari.
+Rabindra Sarobar.
+Shobhabajar Rajbari.
+Kalighat Temple.
+Botanical Gardens.
+Alipore Zoo.
+Prinsep Ghat.
+Eco Park.
+Nicco Park.
+Park Street.
+South Park Street Cemetery.
+National Library.
+Kumortuli.
+Nandan.
+Mothers Wax Museum.
+Biswa Bangla Gate.
+Salt Lake Stadium.
+Kolkata is beautiful?
+Okay
+Show me some Bengali restaurants
+Whoa, thats a lot of places you suggested.
+Show me some North Indian restaurants
+Thanks a lot
+Show me some Mughlai restaurants
+Whoa, thats a lot of places you suggested.
+Show me some Chinese restaurants
+Nice to know
+Show me some American restaurants
+Good suggestions
+Show me some Vegetarian restaurants
+Okay thanks for the help
+Show me some seafood restaurants
+Okay thanks for helping
+Show me some fastfood restaurants
+Thanks a lot
+Show me some Cafes
+Okay
+Show me some buffet restaurants
+Nice
+Do you have a name?
+Nice name
+Have you been to Kolkata?
+Can you suggest me places to travel in Kolkata?
+Where can I tour in Kolkata?
+Where can I travel in Kolkata?
+Places to visit in Kolkata?
+Information on Victorial Memorial.
+Information on Howrah Bridge.
+Information on Maidan.
+Information on Indian Museum.
+Information on Fort William.
+Information on Birla Planetarium.
+Information on Marble Palace.
+Information on St Pauls Cathedral.
+Information on Science City.
+Information on Birla Mandir.
+Information on Eden Gardens.
+Information on Jorasanko Thakurbari.
+Information on Rabindra Sarobar.
+Information on Shobhabajar Rajbari.
+Information on Kalighat Temple.
+Information on Botanical Gardens.
+Information on Alipore Zoo.
+Information on Prinsep Ghat.
+Information on Eco Park.
+Information on Nicco Park.
+Information on Park Street.
+Information on South Park Street Cemetery.
+Information on National Library.
+Information on Kumortuli.
+Information on Nandan.
+Information on Mothers Wax Museum.
+Information on Biswa Bangla Gate.
+Information on Salt Lake Stadium.
+Name some Bengali restaurants
+Whoa, thats a lot of places you suggested.
+Name some North Indian restaurants
+Thanks a lot
+Name some Mughlai restaurants
+Whoa, thats a lot of places you suggested.
+Name some Chinese restaurants
+Nice to know
+Name some American restaurants
+Good suggestions
+Name some Vegetarian restaurants
+Okay thanks for the help
+Name some seafood restaurants
+Okay thanks for helping
+Name some fastfood restaurants
+Thanks a lot
+Name some Cafes
+Okay
+Name some buffet restaurants
+Nice
+What is your name?
+Is your name Kolly?
+What can you do?
+What is Howrah Bridge?
+Give info on Howrah Bridge?
+Can you tell about Howrah Bridge?
+Tell me about Howrah Bridge?
+Howrah Bridge?
+What about Howrah Bridge?
+What is Victoria Memorial?
+Give info on Victoria Memorial?
+Can you tell about Victoria Memorial?
+Tell me about Victoria Memorial?
+Victoria Memorial?
+What about Victoria Memorial?
+What is Maidan?
+Give info on Maidan?
+Can you tell about Maidan?
+Tell me about Maidan?
+Maidan?
+What about Maidan?
+What is Indian Museum?
+Give info on Indian Museum?
+Can you tell about Indian Museum?
+Tell me about Indian Museum?
+Indian Museum?
+What about Indian Museum?
+What is Fort William?
+Give info on Fort William?
+Can you tell about Fort William?
+Tell me about Fort William?
+Fort William?
+What about Fort William?
+What is Birla Planetarium?
+Give info on Birla Planetarium?
+Can you tell about Birla Planetarium?
+Tell me about Birla Planetarium?
+Birla Planetarium?
+What about Birla Planetarium?
+What is Marble Palace?
+Give info on Marble Palace?
+Can you tell about Marble Palace?
+Tell me about Marble Palace?
+Marble Palace?
+What about Marble Palace?
+What is St Pauls Cathedral?
+Give info on St Pauls Cathedral?
+Can you tell about St Pauls Cathedral?
+Tell me about St Pauls Cathedral?
+St Pauls Cathedral?
+What about St Pauls Cathedral?
+What is Science City?
+Give info on Science City?
+Can you tell about Science City?
+Tell me about Science City?
+Science City?
+What about Science City?
+What is Birla Mandir?
+Give info on Birla Mandir?
+Can you tell about Birla Mandir?
+Tell me about Birla Mandir?
+Birla Mandir?
+What about Birla Mandir?
+What is Eden Gardens?
+Give info on Eden Gardens?
+Can you tell about Eden Gardens?
+Tell me about Eden Gardens?
+Eden Gardens?
+What about Eden Gardens?
+What is Jorasanko Thakurbari?
+Give info on Jorasanko Thakurbari?
+Can you tell about Jorasanko Thakurbari?
+Tell me about Jorasanko Thakurbari?
+Jorasanko Thakurbari?
+What about Jorasanko Thakurbari?
+What is Rabindra Sarobar?
+Give info on Rabindra Sarobar?
+Can you tell about Rabindra Sarobar?
+Tell me about Rabindra Sarobar?
+Rabindra Sarobar?
+What about Rabindra Sarobar?
+What is Shobhabajar Rajbari?
+Give info on Shobhabajar Rajbari?
+Can you tell about Shobhabajar Rajbari?
+Tell me about Shobhabajar Rajbari?
+Shobhabajar Rajbari?
+What about Shobhabajar Rajbari?
+What is Kalighat Temple?
+Give info on Kalighat Temple?
+Can you tell about Kalighat Temple?
+Tell me about Kalighat Temple?
+Kalighat Temple?
+What about Kalighat Temple?
+What is Botanical Gardens?
+Give info on Botanical Gardens?
+Can you tell about Botanical Gardens?
+Tell me about Botanical Gardens?
+Botanical Gardens?
+What about Botanical Gardens?
+What is Alipore Zoo?
+Give info on Alipore Zoo?
+Can you tell about Alipore Zoo?
+Tell me about Alipore Zoo?
+Alipore Zoo?
+What about Alipore Zoo?
+What is Prinsep Ghat?
+Give info on Prinsep Ghat?
+Can you tell about Prinsep Ghat?
+Tell me about Prinsep Ghat?
+Prinsep Ghat?
+What about Prinsep Ghat?
+What is Eco Park?
+Give info on Eco Park?
+Can you tell about Eco Park?
+Tell me about Eco Park?
+Eco Park?
+What about Eco Park?
+What is Nicco Park?
+Give info on Nicco Park?
+Can you tell about Nicco Park?
+Tell me about Nicco Park?
+Nicco Park?
+What about Nicco Park?
+What is Park Street?
+Give info on Park Street?
+Can you tell about Park Street?
+Tell me about Park Street?
+Park Street?
+What about Park Street?
+What is South Park Street Cemetery?
+Give info on South Park Street Cemetery?
+Can you tell about South Park Street Cemetery?
+Tell me about South Park Street Cemetery?
+South Park Street Cemetery?
+What about South Park street Cemetery?
+What is National Library?
+Give info on National Library?
+Can you tell about National Library?
+Tell me about National Library?
+National Library?
+What about National Library?
+What is Kumortuli?
+Give info on Kumortuli?
+Can you tell about Kumortuli?
+Tell me about Kumortuli?
+Kumortuli?
+What about Kumortuli?
+What is Nandan?
+Give info on Nandan?
+Can you tell about Nandan?
+Tell me about Nandan?
+Nandan?
+What about Nandan?
+What is Mothers Wax Museum?
+Give info on Mothers Wax Museum?
+Can you tell about Mothers Wax Museum?
+Tell me about Mothers Wax Museum?
+Mothers Wax Museum?
+What about Mothers Wax Museum?
+What is Biswa Bangla Gate?
+Give info on Biswa Bangla Gate?
+Can you tell about Biswa Bangla Gate?
+Tell me about Biswa Bangla Gate?
+Biswa Bangla Gate?
+What about Biswa Bangla gate?
+What is Salt Lake Stadium?
+Give info on Salt Lake Stadium?
+Can you tell about Salt Lake Stadium?
+Tell me about Salt Lake Stadium?
+Salt Lake Stadium?
+What about Salt Lake Stadium?
+Suggest some Bengali restaurants?
+Where can I get Bengali food?
+Is there any Bengali restaurants in kolkata?
+What about Bengali restaurants?
+Suggest some North Indian restaurants?
+Where can I get North Indian food?
+Is there any North Indian restaurants in kolkata?
+What about North Indian restaurants?
+Suggest some Mughlai restaurants?
+Where can I get Mughlai food?
+Is there any Mughlai restaurants in kolkata?
+What about Mughlai restaurants?
+Suggest some Chinese restaurants?
+Where can I get Chinese food?
+Is there any Chinese restaurants in kolkata?
+What about Chinese restaurants?
+Suggest some American restaurants?
+Where can I get American food?
+Is there any American restaurants in kolkata?
+What about American restaurants?
+Suggest some Vegetarian restaurants?
+Where can I get Vegetarian food?
+Is there any Vegetarian restaurants in kolkata?
+What about Vegetarian restaurants?
+Suggest some Seafood restaurants?
+Where can I get Seafood?
+Is there any Seafood restaurants in kolkata?
+What about Seafood restaurants?
+Suggest some Fast Food restaurants?
+Where can I get Fast food?
+Is there any Fast Food restaurants in kolkata?
+What about Fast Food restaurants?
+Suggest some Cafes?
+Where can I get Cafes?
+Is there any Cafes in kolkata?
+What about Cafes?
+Suggest some Buffet restaurants?
+Where can I get Buffet food?
+Is there any Buffet restaurants in kolkata?
+What about Buffet restaurants?
+Tell me about yourself?
+Who are you?
+What is your job?
+What about your job?
+Tell me about tourism in Kolkata?
+What food can I get in Kolkata?
+Tell me about historical places in Kolkata?
+Tell me about Heritages of kolkata?
+What about historical places in Kolkata?
+What about heritages of Kolkata?
+What cuisines can I get?
+Can I get good food in Kolkata?
+Best restaurants in Kolkata?
+Best places to visit in Kolkata?
+restaurants in Kolkata?
+What type of food can I get in Kolkata?
+What type of cuisine can I get in Kolkata? 
+What type of food cuisine can I get in Kolkata?
+famous restaurants in Kolkata?
+You are good
+What is your name?
+What can you do?
+Is that all you can do?
+Okay, thats nice to know
+Can I ask anything about Kolkata?
+What are the most famous locations of Kolkata?
+Whoa, thats a lot of places you suggested.
+Tell me more about Victorial Memorial.
+Tell me more about Howrah Bridge.
+Tell me more about Maidan.
+Tell me more about Indian Museum.
+Tell me more about Fort William.
+Tell me more about Birla Planetarium.
+Tell me more about Marble Palace.
+Tell me more about St Pauls Cathedral.
+Tell me more about Science City.
+Tell me more about Birla Mandir.
+Tell me more about Eden Gardens.
+Tell me more about Jorasanko Thakurbari.
+Tell me more about Rabindra Sarobar.
+Tell me more about Shobhabajar Rajbari.
+Tell me more about Kalighat Temple.
+Tell me more about Botanical Gardens.
+Tell me more about Alipore Zoo.
+Tell me more about Prinsep Ghat.
+Tell me more about Eco Park.
+Tell me more about Nicco Park.
+Tell me more about Park Street.
+Tell me more about South Park Street Cemetery.
+Tell me more about National Library.
+Tell me more about Kumortuli.
+Tell me more about Nandan.
+Tell me more about Mothers Wax Museum.
+Tell me more about Biswa Bangla Gate.
+Tell me more about Salt Lake Stadium.
+Is Kolkata beautiful?
+Have you been to Kolkata?
+What is there to see in Kolkata?
+Tell me about Victorial Memorial.
+Tell me about Howrah Bridge.
+Tell me about Maidan.
+Tell me about Indian Museum.
+Tell me about Fort William.
+Tell me about Birla Planetarium.
+Tell me about Marble Palace.
+Tell me about St Pauls Cathedral.
+Tell me about Science City.
+Tell me about Birla Mandir.
+Tell me about Eden Gardens.
+Tell me about Jorasanko Thakurbari.
+Tell me about Rabindra Sarobar.
+Tell me about Shobhabajar Rajbari.
+Tell me about Kalighat Temple.
+Tell me about Botanical Gardens.
+Tell me about Alipore Zoo.
+Tell me about Prinsep Ghat.
+Tell me about Eco Park.
+Tell me about Nicco Park.
+Tell me about Park Street.
+Tell me about South Park Street Cemetery.
+Tell me about National Library.
+Tell me about Kumortuli.
+Tell me about Nandan.
+Tell me about Mothers Wax Museum.
+Tell me about Biswa Bangla Gate.
+Tell me about Salt Lake Stadium.
+Okay thanks
+Thanks a lot
+Can you tell me anything about Kolkata?
+How much do you know?
+Where can I travel in Kolkata?
+Where can I tour in Kolkata?
+Which places can I visit in Kolkata?
+Suggest some famous places in Kolkata
+Suggest some tourist places in Kolkata
+Is Kolkata a beautiful place?
+Suggest me some famous restaurant in Kolkata
+What are some good restaurants in Kolkata?
+Where can I get good food in Kolkata?
+Places for good food in Kolkata?
+What are you?
+Can I ask you anything about Kolkata?
+Do you have a name?
+Nice name
+Can you suggest me places to visit in Kolkata?
+Can you suggest me restaurants to eat in Kolkata?
+Okay thanks a lot
+What are the cuisines available in Kolkata?
+Suggest me some Bengali cuisine restaurants in Kolkata.
+Whoa, thats a lot of places you suggested.
+Suggest me some North Indian cuisine restaurants in Kolkata.
+Thanks a lot for the information
+Suggest me some Mughlai cuisine restaurants in Kolkata.
+Whoa, thats a lot of places you suggested.
+Suggest me some Chinese cuisine restaurants in Kolkata.
+Okay nice to know
+Suggest me some American cuisine restaurants in Kolkata.
+Good suggestions
+Suggest me some Vegetarian cuisine restaurants in Kolkata.
+Okay thanks for telling
+Suggest me some Seafood restaurants in Kolkata.
+Okay thanks for helping
+Suggest me some Fast food restaurants in Kolkata.
+Thanks a lot
+Suggest me some Cafes in Kolkata.
+Okay
+Suggest me some Buffet restaurants in Kolkata.
+Nice
+Ever been to Kolkata?
+How do you know about Kolkata?
+Can I ask you anything about Kolkata?
+You can answer anything?
+Suggest some places to tour
+What is Victorial Memorial.
+What is Howrah Bridge.
+What is Maidan.
+What is Indian Museum.
+What is Fort William.
+What is Birla Planetarium.
+What is Marble Palace.
+What is St Pauls Cathedral.
+What is Science City.
+What is Birla Mandir.
+What is Eden Gardens.
+What is Jorasanko Thakurbari.
+What is Rabindra Sarobar.
+What is Shobhabajar Rajbari.
+What is Kalighat Temple.
+What is Botanical Gardens.
+What is Alipore Zoo.
+What is Prinsep Ghat.
+What is Eco Park.
+What is Nicco Park.
+What is Park Street.
+What is South Park Street Cemetery.
+What is National Library.
+What is Kumortuli.
+What is Nandan.
+What is Mothers Wax Museum.
+What is Biswa Bangla Gate.
+What is Salt Lake Stadium.
+Bengali cuisine restaurants
+Whoa, thats a lot of places you suggested.
+North Indian cuisine restaurants
+Thanks a lot
+Mughlai cuisine restaurants
+Whoa, thats a lot of places you suggested.
+Chinese cuisine restaurants
+Nice to know
+American cuisine restaurants
+Good suggestions Kolly
+Vegetarian cuisine restaurants
+Okay thanks
+Seafood restaurants
+Okay thanks for helping
+Fast food restaurants
+Thanks a lot
+Cafes
+Okay
+Buffet restaurants
+Nice
+Kolkata is a beautiful city is not it?
+Have you ever been to Kolkata?
+Can you tell me places to tour in Kolkata?
+Can you tell me name of famous restaurants in Kolkata?
+Are there any famous locations in Kolkata?
+Bengali?
+Whoa, thats a lot of places you suggested.
+North Indian?
+Thanks a lot
+Mughlai?
+Whoa, thats a lot of places you suggested.
+Chinese?
+Nice to know
+American?
+Good suggestions Kolly
+Vegetarian?
+Okay thanks for the help
+Seafood?
+Okay thanks for helping
+Fast food restaurants?
+Thanks a lot
+Cafes?
+Okay
+Buffet?
+Nice
+You do know a lot
+Give me some names of restaurants
+Famous restaurants?
+Famous places to eat?
+Victorial Memorial.
+Howrah Bridge.
+Maidan.
+Indian Museum.
+Fort William.
+Birla Planetarium.
+Marble Palace.
+St Pauls Cathedral.
+Science City.
+Birla Mandir.
+Eden Gardens.
+Jorasanko Thakurbari.
+Rabindra Sarobar.
+Shobhabajar Rajbari.
+Kalighat Temple.
+Botanical Gardens.
+Alipore Zoo.
+Prinsep Ghat.
+Eco Park.
+Nicco Park.
+Park Street.
+South Park Street Cemetery.
+National Library.
+Kumortuli.
+Nandan.
+Mothers Wax Museum.
+Biswa Bangla Gate.
+Salt Lake Stadium.
+Kolkata is beautiful?
+Okay
+Show me some Bengali restaurants
+Whoa, thats a lot of places you suggested.
+Show me some North Indian restaurants
+Thanks a lot
+Show me some Mughlai restaurants
+Whoa, thats a lot of places you suggested.
+Show me some Chinese restaurants
+Nice to know
+Show me some American restaurants
+Good suggestions
+Show me some Vegetarian restaurants
+Okay thanks for the help
+Show me some seafood restaurants
+Okay thanks for helping
+Show me some fastfood restaurants
+Thanks a lot
+Show me some Cafes
+Okay
+Show me some buffet restaurants
+Nice
+Do you have a name?
+Nice name
+Have you been to Kolkata?
+Can you suggest me places to travel in Kolkata?
+Where can I tour in Kolkata?
+Where can I travel in Kolkata?
+Places to visit in Kolkata?
+Information on Victorial Memorial.
+Information on Howrah Bridge.
+Information on Maidan.
+Information on Indian Museum.
+Information on Fort William.
+Information on Birla Planetarium.
+Information on Marble Palace.
+Information on St Pauls Cathedral.
+Information on Science City.
+Information on Birla Mandir.
+Information on Eden Gardens.
+Information on Jorasanko Thakurbari.
+Information on Rabindra Sarobar.
+Information on Shobhabajar Rajbari.
+Information on Kalighat Temple.
+Information on Botanical Gardens.
+Information on Alipore Zoo.
+Information on Prinsep Ghat.
+Information on Eco Park.
+Information on Nicco Park.
+Information on Park Street.
+Information on South Park Street Cemetery.
+Information on National Library.
+Information on Kumortuli.
+Information on Nandan.
+Information on Mothers Wax Museum.
+Information on Biswa Bangla Gate.
+Information on Salt Lake Stadium.
+Name some Bengali restaurants
+Whoa, thats a lot of places you suggested.
+Name some North Indian restaurants
+Thanks a lot
+Name some Mughlai restaurants
+Whoa, thats a lot of places you suggested.
+Name some Chinese restaurants
+Nice to know
+Name some American restaurants
+Good suggestions
+Name some Vegetarian restaurants
+Okay thanks for the help
+Name some seafood restaurants
+Okay thanks for helping
+Name some fastfood restaurants
+Thanks a lot
+Name some Cafes
+Okay
+Name some buffet restaurants
+Nice
+What is your name?
+Is your name Kolly?
+What can you do?
+What is Howrah Bridge?
+Give info on Howrah Bridge?
+Can you tell about Howrah Bridge?
+Tell me about Howrah Bridge?
+Howrah Bridge?
+What about Howrah Bridge?
+What is Victoria Memorial?
+Give info on Victoria Memorial?
+Can you tell about Victoria Memorial?
+Tell me about Victoria Memorial?
+Victoria Memorial?
+What about Victoria Memorial?
+What is Maidan?
+Give info on Maidan?
+Can you tell about Maidan?
+Tell me about Maidan?
+Maidan?
+What about Maidan?
+What is Indian Museum?
+Give info on Indian Museum?
+Can you tell about Indian Museum?
+Tell me about Indian Museum?
+Indian Museum?
+What about Indian Museum?
+What is Fort William?
+Give info on Fort William?
+Can you tell about Fort William?
+Tell me about Fort William?
+Fort William?
+What about Fort William?
+What is Birla Planetarium?
+Give info on Birla Planetarium?
+Can you tell about Birla Planetarium?
+Tell me about Birla Planetarium?
+Birla Planetarium?
+What about Birla Planetarium?
+What is Marble Palace?
+Give info on Marble Palace?
+Can you tell about Marble Palace?
+Tell me about Marble Palace?
+Marble Palace?
+What about Marble Palace?
+What is St Pauls Cathedral?
+Give info on St Pauls Cathedral?
+Can you tell about St Pauls Cathedral?
+Tell me about St Pauls Cathedral?
+St Pauls Cathedral?
+What about St Pauls Cathedral?
+What is Science City?
+Give info on Science City?
+Can you tell about Science City?
+Tell me about Science City?
+Science City?
+What about Science City?
+What is Birla Mandir?
+Give info on Birla Mandir?
+Can you tell about Birla Mandir?
+Tell me about Birla Mandir?
+Birla Mandir?
+What about Birla Mandir?
+What is Eden Gardens?
+Give info on Eden Gardens?
+Can you tell about Eden Gardens?
+Tell me about Eden Gardens?
+Eden Gardens?
+What about Eden Gardens?
+What is Jorasanko Thakurbari?
+Give info on Jorasanko Thakurbari?
+Can you tell about Jorasanko Thakurbari?
+Tell me about Jorasanko Thakurbari?
+Jorasanko Thakurbari?
+What about Jorasanko Thakurbari?
+What is Rabindra Sarobar?
+Give info on Rabindra Sarobar?
+Can you tell about Rabindra Sarobar?
+Tell me about Rabindra Sarobar?
+Rabindra Sarobar?
+What about Rabindra Sarobar?
+What is Shobhabajar Rajbari?
+Give info on Shobhabajar Rajbari?
+Can you tell about Shobhabajar Rajbari?
+Tell me about Shobhabajar Rajbari?
+Shobhabajar Rajbari?
+What about Shobhabajar Rajbari?
+What is Kalighat Temple?
+Give info on Kalighat Temple?
+Can you tell about Kalighat Temple?
+Tell me about Kalighat Temple?
+Kalighat Temple?
+What about Kalighat Temple?
+What is Botanical Gardens?
+Give info on Botanical Gardens?
+Can you tell about Botanical Gardens?
+Tell me about Botanical Gardens?
+Botanical Gardens?
+What about Botanical Gardens?
+What is Alipore Zoo?
+Give info on Alipore Zoo?
+Can you tell about Alipore Zoo?
+Tell me about Alipore Zoo?
+Alipore Zoo?
+What about Alipore Zoo?
+What is Prinsep Ghat?
+Give info on Prinsep Ghat?
+Can you tell about Prinsep Ghat?
+Tell me about Prinsep Ghat?
+Prinsep Ghat?
+What about Prinsep Ghat?
+What is Eco Park?
+Give info on Eco Park?
+Can you tell about Eco Park?
+Tell me about Eco Park?
+Eco Park?
+What about Eco Park?
+What is Nicco Park?
+Give info on Nicco Park?
+Can you tell about Nicco Park?
+Tell me about Nicco Park?
+Nicco Park?
+What about Nicco Park?
+What is Park Street?
+Give info on Park Street?
+Can you tell about Park Street?
+Tell me about Park Street?
+Park Street?
+What about Park Street?
+What is South Park Street Cemetery?
+Give info on South Park Street Cemetery?
+Can you tell about South Park Street Cemetery?
+Tell me about South Park Street Cemetery?
+South Park Street Cemetery?
+What about South Park street Cemetery?
+What is National Library?
+Give info on National Library?
+Can you tell about National Library?
+Tell me about National Library?
+National Library?
+What about National Library?
+What is Kumortuli?
+Give info on Kumortuli?
+Can you tell about Kumortuli?
+Tell me about Kumortuli?
+Kumortuli?
+What about Kumortuli?
+What is Nandan?
+Give info on Nandan?
+Can you tell about Nandan?
+Tell me about Nandan?
+Nandan?
+What about Nandan?
+What is Mothers Wax Museum?
+Give info on Mothers Wax Museum?
+Can you tell about Mothers Wax Museum?
+Tell me about Mothers Wax Museum?
+Mothers Wax Museum?
+What about Mothers Wax Museum?
+What is Biswa Bangla Gate?
+Give info on Biswa Bangla Gate?
+Can you tell about Biswa Bangla Gate?
+Tell me about Biswa Bangla Gate?
+Biswa Bangla Gate?
+What about Biswa Bangla gate?
+What is Salt Lake Stadium?
+Give info on Salt Lake Stadium?
+Can you tell about Salt Lake Stadium?
+Tell me about Salt Lake Stadium?
+Salt Lake Stadium?
+What about Salt Lake Stadium?
+Suggest some Bengali restaurants?
+Where can I get Bengali food?
+Is there any Bengali restaurants in kolkata?
+What about Bengali restaurants?
+Suggest some North Indian restaurants?
+Where can I get North Indian food?
+Is there any North Indian restaurants in kolkata?
+What about North Indian restaurants?
+Suggest some Mughlai restaurants?
+Where can I get Mughlai food?
+Is there any Mughlai restaurants in kolkata?
+What about Mughlai restaurants?
+Suggest some Chinese restaurants?
+Where can I get Chinese food?
+Is there any Chinese restaurants in kolkata?
+What about Chinese restaurants?
+Suggest some American restaurants?
+Where can I get American food?
+Is there any American restaurants in kolkata?
+What about American restaurants?
+Suggest some Vegetarian restaurants?
+Where can I get Vegetarian food?
+Is there any Vegetarian restaurants in kolkata?
+What about Vegetarian restaurants?
+Suggest some Seafood restaurants?
+Where can I get Seafood?
+Is there any Seafood restaurants in kolkata?
+What about Seafood restaurants?
+Suggest some Fast Food restaurants?
+Where can I get Fast food?
+Is there any Fast Food restaurants in kolkata?
+What about Fast Food restaurants?
+Suggest some Cafes?
+Where can I get Cafes?
+Is there any Cafes in kolkata?
+What about Cafes?
+Suggest some Buffet restaurants?
+Where can I get Buffet food?
+Is there any Buffet restaurants in kolkata?
+What about Buffet restaurants?
+Tell me about yourself?
+Who are you?
+What is your job?
+What about your job?
+Tell me about tourism in Kolkata?
+What food can I get in Kolkata?
+Tell me about historical places in Kolkata?
+Tell me about Heritages of kolkata?
+What about historical places in Kolkata?
+What about heritages of Kolkata?
+What cuisines can I get?
+Can I get good food in Kolkata?
+Best restaurants in Kolkata?
+Best places to visit in Kolkata?
+restaurants in Kolkata?
+What type of food can I get in Kolkata?
+What type of cuisine can I get in Kolkata? 
+What type of food cuisine can I get in Kolkata?
+famous restaurants in Kolkata?
+You are good
+You are nice
+Can you tell me places for food?
+Can you tell me places for food in Kolkata?
+Can you suggest me restaurants in Kolkata?
+Please tell me cuisines we can get in Kolkata
+What cuisines can we get in Kolkata?
+What type of cuisines can we get in Kolkata?
+What kind of cuisines can we get in Kolkata?
+Can you tell me of cuisines we can get in Kolkata?
+Tell me about cuisines we can get in Kolkata
+Can you tell me about Bengali cuisine in Kolkata?
+Thanks a lot
+Can you tell me about North Indian cuisine in Kolkata?
+Nice
+Can you tell me about Mughlai cuisine in Kolkata?
+Thats wonderful
+Can you tell me about Chinese cuisine in Kolkata?
+Okay
+Can you tell me about American cuisine in Kolkata?
+Okay thanks Kolly
+Can you tell me about Vegetarian cuisine in Kolkata?
+Splendid!
+Can you tell me about Seafood cuisine in Kolkata?
+Thanks a lot
+Can you tell me about Fast food cuisine in Kolkata?
+Thats a lot of info!
+Can you tell me about Cafe in Kolkata?
+Good to know
+Can you tell me about Buffet cuisine in Kolkata?
+Okay
+Hi
+Am fine. How are you?
+What is your name?
+What can you do?
+Is that all you can do?
+Okay, thats nice to know
+Can I ask anything about Kolkata?
+What are the most famous locations of Kolkata?
+Whoa, thats a lot of places you suggested.
+Tell me more about Victorial Memorial.
+Tell me more about Howrah Bridge.
+Tell me more about Maidan.
+Tell me more about Indian Museum.
+Tell me more about Fort William.
+Tell me more about Birla Planetarium.
+Tell me more about Marble Palace.
+Tell me more about St Pauls Cathedral.
+Tell me more about Science City.
+Tell me more about Birla Mandir.
+Tell me more about Eden Gardens.
+Tell me more about Jorasanko Thakurbari.
+Tell me more about Rabindra Sarobar.
+Tell me more about Shobhabajar Rajbari.
+Tell me more about Kalighat Temple.
+Tell me more about Botanical Gardens.
+Tell me more about Alipore Zoo.
+Tell me more about Prinsep Ghat.
+Tell me more about Eco Park.
+Tell me more about Nicco Park.
+Tell me more about Park Street.
+Tell me more about South Park Street Cemetery.
+Tell me more about National Library.
+Tell me more about Kumortuli.
+Tell me more about Nandan.
+Tell me more about Mothers Wax Museum.
+Tell me more about Biswa Bangla Gate.
+Tell me more about Salt Lake Stadium.
+Is Kolkata beautiful?
+Have you been to Kolkata?
+What is there to see in Kolkata?
+Tell me about Victorial Memorial.
+Tell me about Howrah Bridge.
+Tell me about Maidan.
+Tell me about Indian Museum.
+Tell me about Fort William.
+Tell me about Birla Planetarium.
+Tell me about Marble Palace.
+Tell me about St Pauls Cathedral.
+Tell me about Science City.
+Tell me about Birla Mandir.
+Tell me about Eden Gardens.
+Tell me about Jorasanko Thakurbari.
+Tell me about Rabindra Sarobar.
+Tell me about Shobhabajar Rajbari.
+Tell me about Kalighat Temple.
+Tell me about Botanical Gardens.
+Tell me about Alipore Zoo.
+Tell me about Prinsep Ghat.
+Tell me about Eco Park.
+Tell me about Nicco Park.
+Tell me about Park Street.
+Tell me about South Park Street Cemetery.
+Tell me about National Library.
+Tell me about Kumortuli.
+Tell me about Nandan.
+Tell me about Mothers Wax Museum.
+Tell me about Biswa Bangla Gate.
+Tell me about Salt Lake Stadium.
+Okay thanks
+Thanks a lot
+Can you tell me anything about Kolkata?
+How much do you know?
+Where can I travel in Kolkata?
+Where can I tour in Kolkata?
+Which places can I visit in Kolkata?
+Suggest some famous places in Kolkata
+Suggest some tourist places in Kolkata
+Is Kolkata a beautiful place?
+Suggest me some famous restaurant in Kolkata
+What are some good restaurants in Kolkata?
+Where can I get good food in Kolkata?
+Places for good food in Kolkata?
+What are you?
+Can I ask you anything about Kolkata?
+Do you have a name?
+Nice name
+Can you suggest me places to visit in Kolkata?
+Can you suggest me restaurants to eat in Kolkata?
+Okay thanks a lot
+What are the cuisines available in Kolkata?
+Suggest me some Bengali cuisine restaurants in Kolkata.
+Whoa, thats a lot of places you suggested.
+Suggest me some North Indian cuisine restaurants in Kolkata.
+Thanks a lot for the information
+Suggest me some Mughlai cuisine restaurants in Kolkata.
+Whoa, thats a lot of places you suggested.
+Suggest me some Chinese cuisine restaurants in Kolkata.
+Okay nice to know
+Suggest me some American cuisine restaurants in Kolkata.
+Good suggestions
+Suggest me some Vegetarian cuisine restaurants in Kolkata.
+Okay thanks for telling
+Suggest me some Seafood restaurants in Kolkata.
+Okay thanks for helping
+Suggest me some Fast food restaurants in Kolkata.
+Thanks a lot
+Suggest me some Cafes in Kolkata.
+Okay
+Suggest me some Buffet restaurants in Kolkata.
+Nice
+Ever been to Kolkata?
+How do you know about Kolkata?
+Can I ask you anything about Kolkata?
+You can answer anything?
+Suggest some places to tour
+What is Victorial Memorial.
+What is Howrah Bridge.
+What is Maidan.
+What is Indian Museum.
+What is Fort William.
+What is Birla Planetarium.
+What is Marble Palace.
+What is St Pauls Cathedral.
+What is Science City.
+What is Birla Mandir.
+What is Eden Gardens.
+What is Jorasanko Thakurbari.
+What is Rabindra Sarobar.
+What is Shobhabajar Rajbari.
+What is Kalighat Temple.
+What is Botanical Gardens.
+What is Alipore Zoo.
+What is Prinsep Ghat.
+What is Eco Park.
+What is Nicco Park.
+What is Park Street.
+What is South Park Street Cemetery.
+What is National Library.
+What is Kumortuli.
+What is Nandan.
+What is Mothers Wax Museum.
+What is Biswa Bangla Gate.
+What is Salt Lake Stadium.
+Bengali cuisine restaurants
+Whoa, thats a lot of places you suggested.
+North Indian cuisine restaurants
+Thanks a lot
+Mughlai cuisine restaurants
+Whoa, thats a lot of places you suggested.
+Chinese cuisine restaurants
+Nice to know
+American cuisine restaurants
+Good suggestions Kolly
+Vegetarian cuisine restaurants
+Okay thanks
+Seafood restaurants
+Okay thanks for helping
+Fast food restaurants
+Thanks a lot
+Cafes
+Okay
+Buffet restaurants
+Nice
+Kolkata is a beautiful city is not it?
+Have you ever been to Kolkata?
+Can you tell me places to tour in Kolkata?
+Can you tell me name of famous restaurants in Kolkata?
+Are there any famous locations in Kolkata?
+Bengali?
+Whoa, thats a lot of places you suggested.
+North Indian?
+Thanks a lot
+Mughlai?
+Whoa, thats a lot of places you suggested.
+Chinese?
+Nice to know
+American?
+Good suggestions Kolly
+Vegetarian?
+Okay thanks for the help
+Seafood?
+Okay thanks for helping
+Fast food restaurants?
+Thanks a lot
+Cafes?
+Okay
+Buffet?
+Nice
+You do know a lot
+Give me some names of restaurants
+Famous restaurants?
+Famous places to eat?
+Victorial Memorial.
+Howrah Bridge.
+Maidan.
+Indian Museum.
+Fort William.
+Birla Planetarium.
+Marble Palace.
+St Pauls Cathedral.
+Science City.
+Birla Mandir.
+Eden Gardens.
+Jorasanko Thakurbari.
+Rabindra Sarobar.
+Shobhabajar Rajbari.
+Kalighat Temple.
+Botanical Gardens.
+Alipore Zoo.
+Prinsep Ghat.
+Eco Park.
+Nicco Park.
+Park Street.
+South Park Street Cemetery.
+National Library.
+Kumortuli.
+Nandan.
+Mothers Wax Museum.
+Biswa Bangla Gate.
+Salt Lake Stadium.
+Kolkata is beautiful?
+Okay
+Show me some Bengali restaurants
+Whoa, thats a lot of places you suggested.
+Show me some North Indian restaurants
+Thanks a lot
+Show me some Mughlai restaurants
+Whoa, thats a lot of places you suggested.
+Show me some Chinese restaurants
+Nice to know
+Show me some American restaurants
+Good suggestions
+Show me some Vegetarian restaurants
+Okay thanks for the help
+Show me some seafood restaurants
+Okay thanks for helping
+Show me some fastfood restaurants
+Thanks a lot
+Show me some Cafes
+Okay
+Show me some buffet restaurants
+Nice
+Do you have a name?
+Nice name
+Have you been to Kolkata?
+Can you suggest me places to travel in Kolkata?
+Where can I tour in Kolkata?
+Where can I travel in Kolkata?
+Places to visit in Kolkata?
+Information on Victorial Memorial.
+Information on Howrah Bridge.
+Information on Maidan.
+Information on Indian Museum.
+Information on Fort William.
+Information on Birla Planetarium.
+Information on Marble Palace.
+Information on St Pauls Cathedral.
+Information on Science City.
+Information on Birla Mandir.
+Information on Eden Gardens.
+Information on Jorasanko Thakurbari.
+Information on Rabindra Sarobar.
+Information on Shobhabajar Rajbari.
+Information on Kalighat Temple.
+Information on Botanical Gardens.
+Information on Alipore Zoo.
+Information on Prinsep Ghat.
+Information on Eco Park.
+Information on Nicco Park.
+Information on Park Street.
+Information on South Park Street Cemetery.
+Information on National Library.
+Information on Kumortuli.
+Information on Nandan.
+Information on Mothers Wax Museum.
+Information on Biswa Bangla Gate.
+Information on Salt Lake Stadium.
+Name some Bengali restaurants
+Whoa, thats a lot of places you suggested.
+Name some North Indian restaurants
+Thanks a lot
+Name some Mughlai restaurants
+Whoa, thats a lot of places you suggested.
+Name some Chinese restaurants
+Nice to know
+Name some American restaurants
+Good suggestions
+Name some Vegetarian restaurants
+Okay thanks for the help
+Name some seafood restaurants
+Okay thanks for helping
+Name some fastfood restaurants
+Thanks a lot
+Name some Cafes
+Okay
+Name some buffet restaurants
+Nice
+What is your name?
+Is your name Kolly?
+What can you do?
+What is Howrah Bridge?
+Give info on Howrah Bridge?
+Can you tell about Howrah Bridge?
+Tell me about Howrah Bridge?
+Howrah Bridge?
+What about Howrah Bridge?
+What is Victoria Memorial?
+Give info on Victoria Memorial?
+Can you tell about Victoria Memorial?
+Tell me about Victoria Memorial?
+Victoria Memorial?
+What about Victoria Memorial?
+What is Maidan?
+Give info on Maidan?
+Can you tell about Maidan?
+Tell me about Maidan?
+Maidan?
+What about Maidan?
+What is Indian Museum?
+Give info on Indian Museum?
+Can you tell about Indian Museum?
+Tell me about Indian Museum?
+Indian Museum?
+What about Indian Museum?
+What is Fort William?
+Give info on Fort William?
+Can you tell about Fort William?
+Tell me about Fort William?
+Fort William?
+What about Fort William?
+What is Birla Planetarium?
+Give info on Birla Planetarium?
+Can you tell about Birla Planetarium?
+Tell me about Birla Planetarium?
+Birla Planetarium?
+What about Birla Planetarium?
+What is Marble Palace?
+Give info on Marble Palace?
+Can you tell about Marble Palace?
+Tell me about Marble Palace?
+Marble Palace?
+What about Marble Palace?
+What is St Pauls Cathedral?
+Give info on St Pauls Cathedral?
+Can you tell about St Pauls Cathedral?
+Tell me about St Pauls Cathedral?
+St Pauls Cathedral?
+What about St Pauls Cathedral?
+What is Science City?
+Give info on Science City?
+Can you tell about Science City?
+Tell me about Science City?
+Science City?
+What about Science City?
+What is Birla Mandir?
+Give info on Birla Mandir?
+Can you tell about Birla Mandir?
+Tell me about Birla Mandir?
+Birla Mandir?
+What about Birla Mandir?
+What is Eden Gardens?
+Give info on Eden Gardens?
+Can you tell about Eden Gardens?
+Tell me about Eden Gardens?
+Eden Gardens?
+What about Eden Gardens?
+What is Jorasanko Thakurbari?
+Give info on Jorasanko Thakurbari?
+Can you tell about Jorasanko Thakurbari?
+Tell me about Jorasanko Thakurbari?
+Jorasanko Thakurbari?
+What about Jorasanko Thakurbari?
+What is Rabindra Sarobar?
+Give info on Rabindra Sarobar?
+Can you tell about Rabindra Sarobar?
+Tell me about Rabindra Sarobar?
+Rabindra Sarobar?
+What about Rabindra Sarobar?
+What is Shobhabajar Rajbari?
+Give info on Shobhabajar Rajbari?
+Can you tell about Shobhabajar Rajbari?
+Tell me about Shobhabajar Rajbari?
+Shobhabajar Rajbari?
+What about Shobhabajar Rajbari?
+What is Kalighat Temple?
+Give info on Kalighat Temple?
+Can you tell about Kalighat Temple?
+Tell me about Kalighat Temple?
+Kalighat Temple?
+What about Kalighat Temple?
+What is Botanical Gardens?
+Give info on Botanical Gardens?
+Can you tell about Botanical Gardens?
+Tell me about Botanical Gardens?
+Botanical Gardens?
+What about Botanical Gardens?
+What is Alipore Zoo?
+Give info on Alipore Zoo?
+Can you tell about Alipore Zoo?
+Tell me about Alipore Zoo?
+Alipore Zoo?
+What about Alipore Zoo?
+What is Prinsep Ghat?
+Give info on Prinsep Ghat?
+Can you tell about Prinsep Ghat?
+Tell me about Prinsep Ghat?
+Prinsep Ghat?
+What about Prinsep Ghat?
+What is Eco Park?
+Give info on Eco Park?
+Can you tell about Eco Park?
+Tell me about Eco Park?
+Eco Park?
+What about Eco Park?
+What is Nicco Park?
+Give info on Nicco Park?
+Can you tell about Nicco Park?
+Tell me about Nicco Park?
+Nicco Park?
+What about Nicco Park?
+What is Park Street?
+Give info on Park Street?
+Can you tell about Park Street?
+Tell me about Park Street?
+Park Street?
+What about Park Street?
+What is South Park Street Cemetery?
+Give info on South Park Street Cemetery?
+Can you tell about South Park Street Cemetery?
+Tell me about South Park Street Cemetery?
+South Park Street Cemetery?
+What about South Park street Cemetery?
+What is National Library?
+Give info on National Library?
+Can you tell about National Library?
+Tell me about National Library?
+National Library?
+What about National Library?
+What is Kumortuli?
+Give info on Kumortuli?
+Can you tell about Kumortuli?
+Tell me about Kumortuli?
+Kumortuli?
+What about Kumortuli?
+What is Nandan?
+Give info on Nandan?
+Can you tell about Nandan?
+Tell me about Nandan?
+Nandan?
+What about Nandan?
+What is Mothers Wax Museum?
+Give info on Mothers Wax Museum?
+Can you tell about Mothers Wax Museum?
+Tell me about Mothers Wax Museum?
+Mothers Wax Museum?
+What about Mothers Wax Museum?
+What is Biswa Bangla Gate?
+Give info on Biswa Bangla Gate?
+Can you tell about Biswa Bangla Gate?
+Tell me about Biswa Bangla Gate?
+Biswa Bangla Gate?
+What about Biswa Bangla gate?
+What is Salt Lake Stadium?
+Give info on Salt Lake Stadium?
+Can you tell about Salt Lake Stadium?
+Tell me about Salt Lake Stadium?
+Salt Lake Stadium?
+What about Salt Lake Stadium?
+Suggest some Bengali restaurants?
+Where can I get Bengali food?
+Is there any Bengali restaurants in kolkata?
+What about Bengali restaurants?
+Suggest some North Indian restaurants?
+Where can I get North Indian food?
+Is there any North Indian restaurants in kolkata?
+What about North Indian restaurants?
+Suggest some Mughlai restaurants?
+Where can I get Mughlai food?
+Is there any Mughlai restaurants in kolkata?
+What about Mughlai restaurants?
+Suggest some Chinese restaurants?
+Where can I get Chinese food?
+Is there any Chinese restaurants in kolkata?
+What about Chinese restaurants?
+Suggest some American restaurants?
+Where can I get American food?
+Is there any American restaurants in kolkata?
+What about American restaurants?
+Suggest some Vegetarian restaurants?
+Where can I get Vegetarian food?
+Is there any Vegetarian restaurants in kolkata?
+What about Vegetarian restaurants?
+Suggest some Seafood restaurants?
+Where can I get Seafood?
+Is there any Seafood restaurants in kolkata?
+What about Seafood restaurants?
+Suggest some Fast Food restaurants?
+Where can I get Fast food?
+Is there any Fast Food restaurants in kolkata?
+What about Fast Food restaurants?
+Suggest some Cafes?
+Where can I get Cafes?
+Is there any Cafes in kolkata?
+What about Cafes?
+Suggest some Buffet restaurants?
+Where can I get Buffet food?
+Is there any Buffet restaurants in kolkata?
+What about Buffet restaurants?
+Tell me about yourself?
+Who are you?
+What is your job?
+What about your job?
+Tell me about tourism in Kolkata?
+What food can I get in Kolkata?
+Tell me about historical places in Kolkata?
+Tell me about Heritages of kolkata?
+What about historical places in Kolkata?
+What about heritages of Kolkata?
+What cuisines can I get?
+Can I get good food in Kolkata?
+Best restaurants in Kolkata?
+Best places to visit in Kolkata?
+restaurants in Kolkata?
+What type of food can I get in Kolkata?
+What type of cuisine can I get in Kolkata? 
+What type of food cuisine can I get in Kolkata?
+famous restaurants in Kolkata?
+You are good
+What is your name?
+What can you do?
+Is that all you can do?
+Okay, thats nice to know
+Can I ask anything about Kolkata?
+What are the most famous locations of Kolkata?
+Whoa, thats a lot of places you suggested.
+Tell me more about Victorial Memorial.
+Tell me more about Howrah Bridge.
+Tell me more about Maidan.
+Tell me more about Indian Museum.
+Tell me more about Fort William.
+Tell me more about Birla Planetarium.
+Tell me more about Marble Palace.
+Tell me more about St Pauls Cathedral.
+Tell me more about Science City.
+Tell me more about Birla Mandir.
+Tell me more about Eden Gardens.
+Tell me more about Jorasanko Thakurbari.
+Tell me more about Rabindra Sarobar.
+Tell me more about Shobhabajar Rajbari.
+Tell me more about Kalighat Temple.
+Tell me more about Botanical Gardens.
+Tell me more about Alipore Zoo.
+Tell me more about Prinsep Ghat.
+Tell me more about Eco Park.
+Tell me more about Nicco Park.
+Tell me more about Park Street.
+Tell me more about South Park Street Cemetery.
+Tell me more about National Library.
+Tell me more about Kumortuli.
+Tell me more about Nandan.
+Tell me more about Mothers Wax Museum.
+Tell me more about Biswa Bangla Gate.
+Tell me more about Salt Lake Stadium.
+Is Kolkata beautiful?
+Have you been to Kolkata?
+What is there to see in Kolkata?
+Tell me about Victorial Memorial.
+Tell me about Howrah Bridge.
+Tell me about Maidan.
+Tell me about Indian Museum.
+Tell me about Fort William.
+Tell me about Birla Planetarium.
+Tell me about Marble Palace.
+Tell me about St Pauls Cathedral.
+Tell me about Science City.
+Tell me about Birla Mandir.
+Tell me about Eden Gardens.
+Tell me about Jorasanko Thakurbari.
+Tell me about Rabindra Sarobar.
+Tell me about Shobhabajar Rajbari.
+Tell me about Kalighat Temple.
+Tell me about Botanical Gardens.
+Tell me about Alipore Zoo.
+Tell me about Prinsep Ghat.
+Tell me about Eco Park.
+Tell me about Nicco Park.
+Tell me about Park Street.
+Tell me about South Park Street Cemetery.
+Tell me about National Library.
+Tell me about Kumortuli.
+Tell me about Nandan.
+Tell me about Mothers Wax Museum.
+Tell me about Biswa Bangla Gate.
+Tell me about Salt Lake Stadium.
+Okay thanks
+Thanks a lot
+Can you tell me anything about Kolkata?
+How much do you know?
+Where can I travel in Kolkata?
+Where can I tour in Kolkata?
+Which places can I visit in Kolkata?
+Suggest some famous places in Kolkata
+Suggest some tourist places in Kolkata
+Is Kolkata a beautiful place?
+Suggest me some famous restaurant in Kolkata
+What are some good restaurants in Kolkata?
+Where can I get good food in Kolkata?
+Places for good food in Kolkata?
+What are you?
+Can I ask you anything about Kolkata?
+Do you have a name?
+Nice name
+Can you suggest me places to visit in Kolkata?
+Can you suggest me restaurants to eat in Kolkata?
+Okay thanks a lot
+What are the cuisines available in Kolkata?
+Suggest me some Bengali cuisine restaurants in Kolkata.
+Whoa, thats a lot of places you suggested.
+Suggest me some North Indian cuisine restaurants in Kolkata.
+Thanks a lot for the information
+Suggest me some Mughlai cuisine restaurants in Kolkata.
+Whoa, thats a lot of places you suggested.
+Suggest me some Chinese cuisine restaurants in Kolkata.
+Okay nice to know
+Suggest me some American cuisine restaurants in Kolkata.
+Good suggestions
+Suggest me some Vegetarian cuisine restaurants in Kolkata.
+Okay thanks for telling
+Suggest me some Seafood restaurants in Kolkata.
+Okay thanks for helping
+Suggest me some Fast food restaurants in Kolkata.
+Thanks a lot
+Suggest me some Cafes in Kolkata.
+Okay
+Suggest me some Buffet restaurants in Kolkata.
+Nice
+Ever been to Kolkata?
+How do you know about Kolkata?
+Can I ask you anything about Kolkata?
+You can answer anything?
+Suggest some places to tour
+What is Victorial Memorial.
+What is Howrah Bridge.
+What is Maidan.
+What is Indian Museum.
+What is Fort William.
+What is Birla Planetarium.
+What is Marble Palace.
+What is St Pauls Cathedral.
+What is Science City.
+What is Birla Mandir.
+What is Eden Gardens.
+What is Jorasanko Thakurbari.
+What is Rabindra Sarobar.
+What is Shobhabajar Rajbari.
+What is Kalighat Temple.
+What is Botanical Gardens.
+What is Alipore Zoo.
+What is Prinsep Ghat.
+What is Eco Park.
+What is Nicco Park.
+What is Park Street.
+What is South Park Street Cemetery.
+What is National Library.
+What is Kumortuli.
+What is Nandan.
+What is Mothers Wax Museum.
+What is Biswa Bangla Gate.
+What is Salt Lake Stadium.
+Bengali cuisine restaurants
+Whoa, thats a lot of places you suggested.
+North Indian cuisine restaurants
+Thanks a lot
+Mughlai cuisine restaurants
+Whoa, thats a lot of places you suggested.
+Chinese cuisine restaurants
+Nice to know
+American cuisine restaurants
+Good suggestions Kolly
+Vegetarian cuisine restaurants
+Okay thanks
+Seafood restaurants
+Okay thanks for helping
+Fast food restaurants
+Thanks a lot
+Cafes
+Okay
+Buffet restaurants
+Nice
+Kolkata is a beautiful city is not it?
+Have you ever been to Kolkata?
+Can you tell me places to tour in Kolkata?
+Can you tell me name of famous restaurants in Kolkata?
+Are there any famous locations in Kolkata?
+Bengali?
+Whoa, thats a lot of places you suggested.
+North Indian?
+Thanks a lot
+Mughlai?
+Whoa, thats a lot of places you suggested.
+Chinese?
+Nice to know
+American?
+Good suggestions Kolly
+Vegetarian?
+Okay thanks for the help
+Seafood?
+Okay thanks for helping
+Fast food restaurants?
+Thanks a lot
+Cafes?
+Okay
+Buffet?
+Nice
+You do know a lot
+Give me some names of restaurants
+Famous restaurants?
+Famous places to eat?
+Victorial Memorial.
+Howrah Bridge.
+Maidan.
+Indian Museum.
+Fort William.
+Birla Planetarium.
+Marble Palace.
+St Pauls Cathedral.
+Science City.
+Birla Mandir.
+Eden Gardens.
+Jorasanko Thakurbari.
+Rabindra Sarobar.
+Shobhabajar Rajbari.
+Kalighat Temple.
+Botanical Gardens.
+Alipore Zoo.
+Prinsep Ghat.
+Eco Park.
+Nicco Park.
+Park Street.
+South Park Street Cemetery.
+National Library.
+Kumortuli.
+Nandan.
+Mothers Wax Museum.
+Biswa Bangla Gate.
+Salt Lake Stadium.
+Kolkata is beautiful?
+Okay
+Show me some Bengali restaurants
+Whoa, thats a lot of places you suggested.
+Show me some North Indian restaurants
+Thanks a lot
+Show me some Mughlai restaurants
+Whoa, thats a lot of places you suggested.
+Show me some Chinese restaurants
+Nice to know
+Show me some American restaurants
+Good suggestions
+Show me some Vegetarian restaurants
+Okay thanks for the help
+Show me some seafood restaurants
+Okay thanks for helping
+Show me some fastfood restaurants
+Thanks a lot
+Show me some Cafes
+Okay
+Show me some buffet restaurants
+Nice
+Do you have a name?
+Nice name
+Have you been to Kolkata?
+Can you suggest me places to travel in Kolkata?
+Where can I tour in Kolkata?
+Where can I travel in Kolkata?
+Places to visit in Kolkata?
+Information on Victorial Memorial.
+Information on Howrah Bridge.
+Information on Maidan.
+Information on Indian Museum.
+Information on Fort William.
+Information on Birla Planetarium.
+Information on Marble Palace.
+Information on St Pauls Cathedral.
+Information on Science City.
+Information on Birla Mandir.
+Information on Eden Gardens.
+Information on Jorasanko Thakurbari.
+Information on Rabindra Sarobar.
+Information on Shobhabajar Rajbari.
+Information on Kalighat Temple.
+Information on Botanical Gardens.
+Information on Alipore Zoo.
+Information on Prinsep Ghat.
+Information on Eco Park.
+Information on Nicco Park.
+Information on Park Street.
+Information on South Park Street Cemetery.
+Information on National Library.
+Information on Kumortuli.
+Information on Nandan.
+Information on Mothers Wax Museum.
+Information on Biswa Bangla Gate.
+Information on Salt Lake Stadium.
+Name some Bengali restaurants
+Whoa, thats a lot of places you suggested.
+Name some North Indian restaurants
+Thanks a lot
+Name some Mughlai restaurants
+Whoa, thats a lot of places you suggested.
+Name some Chinese restaurants
+Nice to know
+Name some American restaurants
+Good suggestions
+Name some Vegetarian restaurants
+Okay thanks for the help
+Name some seafood restaurants
+Okay thanks for helping
+Name some fastfood restaurants
+Thanks a lot
+Name some Cafes
+Okay
+Name some buffet restaurants
+Nice
+What is your name?
+Is your name Kolly?
+What can you do?
+What is Howrah Bridge?
+Give info on Howrah Bridge?
+Can you tell about Howrah Bridge?
+Tell me about Howrah Bridge?
+Howrah Bridge?
+What about Howrah Bridge?
+What is Victoria Memorial?
+Give info on Victoria Memorial?
+Can you tell about Victoria Memorial?
+Tell me about Victoria Memorial?
+Victoria Memorial?
+What about Victoria Memorial?
+What is Maidan?
+Give info on Maidan?
+Can you tell about Maidan?
+Tell me about Maidan?
+Maidan?
+What about Maidan?
+What is Indian Museum?
+Give info on Indian Museum?
+Can you tell about Indian Museum?
+Tell me about Indian Museum?
+Indian Museum?
+What about Indian Museum?
+What is Fort William?
+Give info on Fort William?
+Can you tell about Fort William?
+Tell me about Fort William?
+Fort William?
+What about Fort William?
+What is Birla Planetarium?
+Give info on Birla Planetarium?
+Can you tell about Birla Planetarium?
+Tell me about Birla Planetarium?
+Birla Planetarium?
+What about Birla Planetarium?
+What is Marble Palace?
+Give info on Marble Palace?
+Can you tell about Marble Palace?
+Tell me about Marble Palace?
+Marble Palace?
+What about Marble Palace?
+What is St Pauls Cathedral?
+Give info on St Pauls Cathedral?
+Can you tell about St Pauls Cathedral?
+Tell me about St Pauls Cathedral?
+St Pauls Cathedral?
+What about St Pauls Cathedral?
+What is Science City?
+Give info on Science City?
+Can you tell about Science City?
+Tell me about Science City?
+Science City?
+What about Science City?
+What is Birla Mandir?
+Give info on Birla Mandir?
+Can you tell about Birla Mandir?
+Tell me about Birla Mandir?
+Birla Mandir?
+What about Birla Mandir?
+What is Eden Gardens?
+Give info on Eden Gardens?
+Can you tell about Eden Gardens?
+Tell me about Eden Gardens?
+Eden Gardens?
+What about Eden Gardens?
+What is Jorasanko Thakurbari?
+Give info on Jorasanko Thakurbari?
+Can you tell about Jorasanko Thakurbari?
+Tell me about Jorasanko Thakurbari?
+Jorasanko Thakurbari?
+What about Jorasanko Thakurbari?
+What is Rabindra Sarobar?
+Give info on Rabindra Sarobar?
+Can you tell about Rabindra Sarobar?
+Tell me about Rabindra Sarobar?
+Rabindra Sarobar?
+What about Rabindra Sarobar?
+What is Shobhabajar Rajbari?
+Give info on Shobhabajar Rajbari?
+Can you tell about Shobhabajar Rajbari?
+Tell me about Shobhabajar Rajbari?
+Shobhabajar Rajbari?
+What about Shobhabajar Rajbari?
+What is Kalighat Temple?
+Give info on Kalighat Temple?
+Can you tell about Kalighat Temple?
+Tell me about Kalighat Temple?
+Kalighat Temple?
+What about Kalighat Temple?
+What is Botanical Gardens?
+Give info on Botanical Gardens?
+Can you tell about Botanical Gardens?
+Tell me about Botanical Gardens?
+Botanical Gardens?
+What about Botanical Gardens?
+What is Alipore Zoo?
+Give info on Alipore Zoo?
+Can you tell about Alipore Zoo?
+Tell me about Alipore Zoo?
+Alipore Zoo?
+What about Alipore Zoo?
+What is Prinsep Ghat?
+Give info on Prinsep Ghat?
+Can you tell about Prinsep Ghat?
+Tell me about Prinsep Ghat?
+Prinsep Ghat?
+What about Prinsep Ghat?
+What is Eco Park?
+Give info on Eco Park?
+Can you tell about Eco Park?
+Tell me about Eco Park?
+Eco Park?
+What about Eco Park?
+What is Nicco Park?
+Give info on Nicco Park?
+Can you tell about Nicco Park?
+Tell me about Nicco Park?
+Nicco Park?
+What about Nicco Park?
+What is Park Street?
+Give info on Park Street?
+Can you tell about Park Street?
+Tell me about Park Street?
+Park Street?
+What about Park Street?
+What is South Park Street Cemetery?
+Give info on South Park Street Cemetery?
+Can you tell about South Park Street Cemetery?
+Tell me about South Park Street Cemetery?
+South Park Street Cemetery?
+What about South Park street Cemetery?
+What is National Library?
+Give info on National Library?
+Can you tell about National Library?
+Tell me about National Library?
+National Library?
+What about National Library?
+What is Kumortuli?
+Give info on Kumortuli?
+Can you tell about Kumortuli?
+Tell me about Kumortuli?
+Kumortuli?
+What about Kumortuli?
+What is Nandan?
+Give info on Nandan?
+Can you tell about Nandan?
+Tell me about Nandan?
+Nandan?
+What about Nandan?
+What is Mothers Wax Museum?
+Give info on Mothers Wax Museum?
+Can you tell about Mothers Wax Museum?
+Tell me about Mothers Wax Museum?
+Mothers Wax Museum?
+What about Mothers Wax Museum?
+What is Biswa Bangla Gate?
+Give info on Biswa Bangla Gate?
+Can you tell about Biswa Bangla Gate?
+Tell me about Biswa Bangla Gate?
+Biswa Bangla Gate?
+What about Biswa Bangla gate?
+What is Salt Lake Stadium?
+Give info on Salt Lake Stadium?
+Can you tell about Salt Lake Stadium?
+Tell me about Salt Lake Stadium?
+Salt Lake Stadium?
+What about Salt Lake Stadium?
+Suggest some Bengali restaurants?
+Where can I get Bengali food?
+Is there any Bengali restaurants in kolkata?
+What about Bengali restaurants?
+Suggest some North Indian restaurants?
+Where can I get North Indian food?
+Is there any North Indian restaurants in kolkata?
+What about North Indian restaurants?
+Suggest some Mughlai restaurants?
+Where can I get Mughlai food?
+Is there any Mughlai restaurants in kolkata?
+What about Mughlai restaurants?
+Suggest some Chinese restaurants?
+Where can I get Chinese food?
+Is there any Chinese restaurants in kolkata?
+What about Chinese restaurants?
+Suggest some American restaurants?
+Where can I get American food?
+Is there any American restaurants in kolkata?
+What about American restaurants?
+Suggest some Vegetarian restaurants?
+Where can I get Vegetarian food?
+Is there any Vegetarian restaurants in kolkata?
+What about Vegetarian restaurants?
+Suggest some Seafood restaurants?
+Where can I get Seafood?
+Is there any Seafood restaurants in kolkata?
+What about Seafood restaurants?
+Suggest some Fast Food restaurants?
+Where can I get Fast food?
+Is there any Fast Food restaurants in kolkata?
+What about Fast Food restaurants?
+Suggest some Cafes?
+Where can I get Cafes?
+Is there any Cafes in kolkata?
+What about Cafes?
+Suggest some Buffet restaurants?
+Where can I get Buffet food?
+Is there any Buffet restaurants in kolkata?
+What about Buffet restaurants?
+Tell me about yourself?
+Who are you?
+What is your job?
+What about your job?
+Tell me about tourism in Kolkata?
+What food can I get in Kolkata?
+Tell me about historical places in Kolkata?
+Tell me about Heritages of kolkata?
+What about historical places in Kolkata?
+What about heritages of Kolkata?
+What cuisines can I get?
+Can I get good food in Kolkata?
+Best restaurants in Kolkata?
+Best places to visit in Kolkata?
+restaurants in Kolkata?
+What type of food can I get in Kolkata?
+What type of cuisine can I get in Kolkata? 
+What type of food cuisine can I get in Kolkata?
+famous restaurants in Kolkata?
+You are good
+You are nice
+Can you tell me places for food?
+Can you tell me places for food in Kolkata?
+Can you suggest me restaurants in Kolkata?
+Please tell me cuisines we can get in Kolkata
+What cuisines can we get in Kolkata?
+What type of cuisines can we get in Kolkata?
+What kind of cuisines can we get in Kolkata?
+Can you tell me of cuisines we can get in Kolkata?
+Tell me about cuisines we can get in Kolkata
+Can you tell me about Bengali cuisine in Kolkata?
+Thanks a lot
+Can you tell me about North Indian cuisine in Kolkata?
+Nice
+Can you tell me about Mughlai cuisine in Kolkata?
+Thats wonderful
+Can you tell me about Chinese cuisine in Kolkata?
+Okay
+Can you tell me about American cuisine in Kolkata?
+Okay thanks Kolly
+Can you tell me about Vegetarian cuisine in Kolkata?
+Splendid!
+Can you tell me about Seafood cuisine in Kolkata?
+Thanks a lot
+Can you tell me about Fast food cuisine in Kolkata?
+Thats a lot of info!
+Can you tell me about Cafe in Kolkata?
+Good to know
+Can you tell me about Buffet cuisine in Kolkata?
+Okay
+Hi
+Am fine. How are you?
+What is your name?
+What can you do?
+Is that all you can do?
+Okay, thats nice to know
+Can I ask anything about Kolkata?
+What are the most famous locations of Kolkata?
+Whoa, thats a lot of places you suggested.
+Tell me more about Victorial Memorial.
+Tell me more about Howrah Bridge.
+Tell me more about Maidan.
+Tell me more about Indian Museum.
+Tell me more about Fort William.
+Tell me more about Birla Planetarium.
+Tell me more about Marble Palace.
+Tell me more about St Pauls Cathedral.
+Tell me more about Science City.
+Tell me more about Birla Mandir.
+Tell me more about Eden Gardens.
+Tell me more about Jorasanko Thakurbari.
+Tell me more about Rabindra Sarobar.
+Tell me more about Shobhabajar Rajbari.
+Tell me more about Kalighat Temple.
+Tell me more about Botanical Gardens.
+Tell me more about Alipore Zoo.
+Tell me more about Prinsep Ghat.
+Tell me more about Eco Park.
+Tell me more about Nicco Park.
+Tell me more about Park Street.
+Tell me more about South Park Street Cemetery.
+Tell me more about National Library.
+Tell me more about Kumortuli.
+Tell me more about Nandan.
+Tell me more about Mothers Wax Museum.
+Tell me more about Biswa Bangla Gate.
+Tell me more about Salt Lake Stadium.
+Is Kolkata beautiful?
+Have you been to Kolkata?
+What is there to see in Kolkata?
+Tell me about Victorial Memorial.
+Tell me about Howrah Bridge.
+Tell me about Maidan.
+Tell me about Indian Museum.
+Tell me about Fort William.
+Tell me about Birla Planetarium.
+Tell me about Marble Palace.
+Tell me about St Pauls Cathedral.
+Tell me about Science City.
+Tell me about Birla Mandir.
+Tell me about Eden Gardens.
+Tell me about Jorasanko Thakurbari.
+Tell me about Rabindra Sarobar.
+Tell me about Shobhabajar Rajbari.
+Tell me about Kalighat Temple.
+Tell me about Botanical Gardens.
+Tell me about Alipore Zoo.
+Tell me about Prinsep Ghat.
+Tell me about Eco Park.
+Tell me about Nicco Park.
+Tell me about Park Street.
+Tell me about South Park Street Cemetery.
+Tell me about National Library.
+Tell me about Kumortuli.
+Tell me about Nandan.
+Tell me about Mothers Wax Museum.
+Tell me about Biswa Bangla Gate.
+Tell me about Salt Lake Stadium.
+Okay thanks
+Thanks a lot
+Can you tell me anything about Kolkata?
+How much do you know?
+Where can I travel in Kolkata?
+Where can I tour in Kolkata?
+Which places can I visit in Kolkata?
+Suggest some famous places in Kolkata
+Suggest some tourist places in Kolkata
+Is Kolkata a beautiful place?
+Suggest me some famous restaurant in Kolkata
+What are some good restaurants in Kolkata?
+Where can I get good food in Kolkata?
+Places for good food in Kolkata?
+What are you?
+Can I ask you anything about Kolkata?
+Do you have a name?
+Nice name
+Can you suggest me places to visit in Kolkata?
+Can you suggest me restaurants to eat in Kolkata?
+Okay thanks a lot
+What are the cuisines available in Kolkata?
+Suggest me some Bengali cuisine restaurants in Kolkata.
+Whoa, thats a lot of places you suggested.
+Suggest me some North Indian cuisine restaurants in Kolkata.
+Thanks a lot for the information
+Suggest me some Mughlai cuisine restaurants in Kolkata.
+Whoa, thats a lot of places you suggested.
+Suggest me some Chinese cuisine restaurants in Kolkata.
+Okay nice to know
+Suggest me some American cuisine restaurants in Kolkata.
+Good suggestions
+Suggest me some Vegetarian cuisine restaurants in Kolkata.
+Okay thanks for telling
+Suggest me some Seafood restaurants in Kolkata.
+Okay thanks for helping
+Suggest me some Fast food restaurants in Kolkata.
+Thanks a lot
+Suggest me some Cafes in Kolkata.
+Okay
+Suggest me some Buffet restaurants in Kolkata.
+Nice
+Ever been to Kolkata?
+How do you know about Kolkata?
+Can I ask you anything about Kolkata?
+You can answer anything?
+Suggest some places to tour
+What is Victorial Memorial.
+What is Howrah Bridge.
+What is Maidan.
+What is Indian Museum.
+What is Fort William.
+What is Birla Planetarium.
+What is Marble Palace.
+What is St Pauls Cathedral.
+What is Science City.
+What is Birla Mandir.
+What is Eden Gardens.
+What is Jorasanko Thakurbari.
+What is Rabindra Sarobar.
+What is Shobhabajar Rajbari.
+What is Kalighat Temple.
+What is Botanical Gardens.
+What is Alipore Zoo.
+What is Prinsep Ghat.
+What is Eco Park.
+What is Nicco Park.
+What is Park Street.
+What is South Park Street Cemetery.
+What is National Library.
+What is Kumortuli.
+What is Nandan.
+What is Mothers Wax Museum.
+What is Biswa Bangla Gate.
+What is Salt Lake Stadium.
+Bengali cuisine restaurants
+Whoa, thats a lot of places you suggested.
+North Indian cuisine restaurants
+Thanks a lot
+Mughlai cuisine restaurants
+Whoa, thats a lot of places you suggested.
+Chinese cuisine restaurants
+Nice to know
+American cuisine restaurants
+Good suggestions Kolly
+Vegetarian cuisine restaurants
+Okay thanks
+Seafood restaurants
+Okay thanks for helping
+Fast food restaurants
+Thanks a lot
+Cafes
+Okay
+Buffet restaurants
+Nice
+Kolkata is a beautiful city is not it?
+Have you ever been to Kolkata?
+Can you tell me places to tour in Kolkata?
+Can you tell me name of famous restaurants in Kolkata?
+Are there any famous locations in Kolkata?
+Bengali?
+Whoa, thats a lot of places you suggested.
+North Indian?
+Thanks a lot
+Mughlai?
+Whoa, thats a lot of places you suggested.
+Chinese?
+Nice to know
+American?
+Good suggestions Kolly
+Vegetarian?
+Okay thanks for the help
+Seafood?
+Okay thanks for helping
+Fast food restaurants?
+Thanks a lot
+Cafes?
+Okay
+Buffet?
+Nice
+You do know a lot
+Give me some names of restaurants
+Famous restaurants?
+Famous places to eat?
+Victorial Memorial.
+Howrah Bridge.
+Maidan.
+Indian Museum.
+Fort William.
+Birla Planetarium.
+Marble Palace.
+St Pauls Cathedral.
+Science City.
+Birla Mandir.
+Eden Gardens.
+Jorasanko Thakurbari.
+Rabindra Sarobar.
+Shobhabajar Rajbari.
+Kalighat Temple.
+Botanical Gardens.
+Alipore Zoo.
+Prinsep Ghat.
+Eco Park.
+Nicco Park.
+Park Street.
+South Park Street Cemetery.
+National Library.
+Kumortuli.
+Nandan.
+Mothers Wax Museum.
+Biswa Bangla Gate.
+Salt Lake Stadium.
+Kolkata is beautiful?
+Okay
+Show me some Bengali restaurants
+Whoa, thats a lot of places you suggested.
+Show me some North Indian restaurants
+Thanks a lot
+Show me some Mughlai restaurants
+Whoa, thats a lot of places you suggested.
+Show me some Chinese restaurants
+Nice to know
+Show me some American restaurants
+Good suggestions
+Show me some Vegetarian restaurants
+Okay thanks for the help
+Show me some seafood restaurants
+Okay thanks for helping
+Show me some fastfood restaurants
+Thanks a lot
+Show me some Cafes
+Okay
+Show me some buffet restaurants
+Nice
+Do you have a name?
+Nice name
+Have you been to Kolkata?
+Can you suggest me places to travel in Kolkata?
+Where can I tour in Kolkata?
+Where can I travel in Kolkata?
+Places to visit in Kolkata?
+Information on Victorial Memorial.
+Information on Howrah Bridge.
+Information on Maidan.
+Information on Indian Museum.
+Information on Fort William.
+Information on Birla Planetarium.
+Information on Marble Palace.
+Information on St Pauls Cathedral.
+Information on Science City.
+Information on Birla Mandir.
+Information on Eden Gardens.
+Information on Jorasanko Thakurbari.
+Information on Rabindra Sarobar.
+Information on Shobhabajar Rajbari.
+Information on Kalighat Temple.
+Information on Botanical Gardens.
+Information on Alipore Zoo.
+Information on Prinsep Ghat.
+Information on Eco Park.
+Information on Nicco Park.
+Information on Park Street.
+Information on South Park Street Cemetery.
+Information on National Library.
+Information on Kumortuli.
+Information on Nandan.
+Information on Mothers Wax Museum.
+Information on Biswa Bangla Gate.
+Information on Salt Lake Stadium.
+Name some Bengali restaurants
+Whoa, thats a lot of places you suggested.
+Name some North Indian restaurants
+Thanks a lot
+Name some Mughlai restaurants
+Whoa, thats a lot of places you suggested.
+Name some Chinese restaurants
+Nice to know
+Name some American restaurants
+Good suggestions
+Name some Vegetarian restaurants
+Okay thanks for the help
+Name some seafood restaurants
+Okay thanks for helping
+Name some fastfood restaurants
+Thanks a lot
+Name some Cafes
+Okay
+Name some buffet restaurants
+Nice
+What is your name?
+Is your name Kolly?
+What can you do?
+What is Howrah Bridge?
+Give info on Howrah Bridge?
+Can you tell about Howrah Bridge?
+Tell me about Howrah Bridge?
+Howrah Bridge?
+What about Howrah Bridge?
+What is Victoria Memorial?
+Give info on Victoria Memorial?
+Can you tell about Victoria Memorial?
+Tell me about Victoria Memorial?
+Victoria Memorial?
+What about Victoria Memorial?
+What is Maidan?
+Give info on Maidan?
+Can you tell about Maidan?
+Tell me about Maidan?
+Maidan?
+What about Maidan?
+What is Indian Museum?
+Give info on Indian Museum?
+Can you tell about Indian Museum?
+Tell me about Indian Museum?
+Indian Museum?
+What about Indian Museum?
+What is Fort William?
+Give info on Fort William?
+Can you tell about Fort William?
+Tell me about Fort William?
+Fort William?
+What about Fort William?
+What is Birla Planetarium?
+Give info on Birla Planetarium?
+Can you tell about Birla Planetarium?
+Tell me about Birla Planetarium?
+Birla Planetarium?
+What about Birla Planetarium?
+What is Marble Palace?
+Give info on Marble Palace?
+Can you tell about Marble Palace?
+Tell me about Marble Palace?
+Marble Palace?
+What about Marble Palace?
+What is St Pauls Cathedral?
+Give info on St Pauls Cathedral?
+Can you tell about St Pauls Cathedral?
+Tell me about St Pauls Cathedral?
+St Pauls Cathedral?
+What about St Pauls Cathedral?
+What is Science City?
+Give info on Science City?
+Can you tell about Science City?
+Tell me about Science City?
+Science City?
+What about Science City?
+What is Birla Mandir?
+Give info on Birla Mandir?
+Can you tell about Birla Mandir?
+Tell me about Birla Mandir?
+Birla Mandir?
+What about Birla Mandir?
+What is Eden Gardens?
+Give info on Eden Gardens?
+Can you tell about Eden Gardens?
+Tell me about Eden Gardens?
+Eden Gardens?
+What about Eden Gardens?
+What is Jorasanko Thakurbari?
+Give info on Jorasanko Thakurbari?
+Can you tell about Jorasanko Thakurbari?
+Tell me about Jorasanko Thakurbari?
+Jorasanko Thakurbari?
+What about Jorasanko Thakurbari?
+What is Rabindra Sarobar?
+Give info on Rabindra Sarobar?
+Can you tell about Rabindra Sarobar?
+Tell me about Rabindra Sarobar?
+Rabindra Sarobar?
+What about Rabindra Sarobar?
+What is Shobhabajar Rajbari?
+Give info on Shobhabajar Rajbari?
+Can you tell about Shobhabajar Rajbari?
+Tell me about Shobhabajar Rajbari?
+Shobhabajar Rajbari?
+What about Shobhabajar Rajbari?
+What is Kalighat Temple?
+Give info on Kalighat Temple?
+Can you tell about Kalighat Temple?
+Tell me about Kalighat Temple?
+Kalighat Temple?
+What about Kalighat Temple?
+What is Botanical Gardens?
+Give info on Botanical Gardens?
+Can you tell about Botanical Gardens?
+Tell me about Botanical Gardens?
+Botanical Gardens?
+What about Botanical Gardens?
+What is Alipore Zoo?
+Give info on Alipore Zoo?
+Can you tell about Alipore Zoo?
+Tell me about Alipore Zoo?
+Alipore Zoo?
+What about Alipore Zoo?
+What is Prinsep Ghat?
+Give info on Prinsep Ghat?
+Can you tell about Prinsep Ghat?
+Tell me about Prinsep Ghat?
+Prinsep Ghat?
+What about Prinsep Ghat?
+What is Eco Park?
+Give info on Eco Park?
+Can you tell about Eco Park?
+Tell me about Eco Park?
+Eco Park?
+What about Eco Park?
+What is Nicco Park?
+Give info on Nicco Park?
+Can you tell about Nicco Park?
+Tell me about Nicco Park?
+Nicco Park?
+What about Nicco Park?
+What is Park Street?
+Give info on Park Street?
+Can you tell about Park Street?
+Tell me about Park Street?
+Park Street?
+What about Park Street?
+What is South Park Street Cemetery?
+Give info on South Park Street Cemetery?
+Can you tell about South Park Street Cemetery?
+Tell me about South Park Street Cemetery?
+South Park Street Cemetery?
+What about South Park street Cemetery?
+What is National Library?
+Give info on National Library?
+Can you tell about National Library?
+Tell me about National Library?
+National Library?
+What about National Library?
+What is Kumortuli?
+Give info on Kumortuli?
+Can you tell about Kumortuli?
+Tell me about Kumortuli?
+Kumortuli?
+What about Kumortuli?
+What is Nandan?
+Give info on Nandan?
+Can you tell about Nandan?
+Tell me about Nandan?
+Nandan?
+What about Nandan?
+What is Mothers Wax Museum?
+Give info on Mothers Wax Museum?
+Can you tell about Mothers Wax Museum?
+Tell me about Mothers Wax Museum?
+Mothers Wax Museum?
+What about Mothers Wax Museum?
+What is Biswa Bangla Gate?
+Give info on Biswa Bangla Gate?
+Can you tell about Biswa Bangla Gate?
+Tell me about Biswa Bangla Gate?
+Biswa Bangla Gate?
+What about Biswa Bangla gate?
+What is Salt Lake Stadium?
+Give info on Salt Lake Stadium?
+Can you tell about Salt Lake Stadium?
+Tell me about Salt Lake Stadium?
+Salt Lake Stadium?
+What about Salt Lake Stadium?
+Suggest some Bengali restaurants?
+Where can I get Bengali food?
+Is there any Bengali restaurants in kolkata?
+What about Bengali restaurants?
+Suggest some North Indian restaurants?
+Where can I get North Indian food?
+Is there any North Indian restaurants in kolkata?
+What about North Indian restaurants?
+Suggest some Mughlai restaurants?
+Where can I get Mughlai food?
+Is there any Mughlai restaurants in kolkata?
+What about Mughlai restaurants?
+Suggest some Chinese restaurants?
+Where can I get Chinese food?
+Is there any Chinese restaurants in kolkata?
+What about Chinese restaurants?
+Suggest some American restaurants?
+Where can I get American food?
+Is there any American restaurants in kolkata?
+What about American restaurants?
+Suggest some Vegetarian restaurants?
+Where can I get Vegetarian food?
+Is there any Vegetarian restaurants in kolkata?
+What about Vegetarian restaurants?
+Suggest some Seafood restaurants?
+Where can I get Seafood?
+Is there any Seafood restaurants in kolkata?
+What about Seafood restaurants?
+Suggest some Fast Food restaurants?
+Where can I get Fast food?
+Is there any Fast Food restaurants in kolkata?
+What about Fast Food restaurants?
+Suggest some Cafes?
+Where can I get Cafes?
+Is there any Cafes in kolkata?
+What about Cafes?
+Suggest some Buffet restaurants?
+Where can I get Buffet food?
+Is there any Buffet restaurants in kolkata?
+What about Buffet restaurants?
+Tell me about yourself?
+Who are you?
+What is your job?
+What about your job?
+Tell me about tourism in Kolkata?
+What food can I get in Kolkata?
+Tell me about historical places in Kolkata?
+Tell me about Heritages of kolkata?
+What about historical places in Kolkata?
+What about heritages of Kolkata?
+What cuisines can I get?
+Can I get good food in Kolkata?
+Best restaurants in Kolkata?
+Best places to visit in Kolkata?
+restaurants in Kolkata?
+What type of food can I get in Kolkata?
+What type of cuisine can I get in Kolkata? 
+What type of food cuisine can I get in Kolkata?
+famous restaurants in Kolkata?
+You are good
+What is your name?
+What can you do?
+Is that all you can do?
+Okay, thats nice to know
+Can I ask anything about Kolkata?
+What are the most famous locations of Kolkata?
+Whoa, thats a lot of places you suggested.
+Tell me more about Victorial Memorial.
+Tell me more about Howrah Bridge.
+Tell me more about Maidan.
+Tell me more about Indian Museum.
+Tell me more about Fort William.
+Tell me more about Birla Planetarium.
+Tell me more about Marble Palace.
+Tell me more about St Pauls Cathedral.
+Tell me more about Science City.
+Tell me more about Birla Mandir.
+Tell me more about Eden Gardens.
+Tell me more about Jorasanko Thakurbari.
+Tell me more about Rabindra Sarobar.
+Tell me more about Shobhabajar Rajbari.
+Tell me more about Kalighat Temple.
+Tell me more about Botanical Gardens.
+Tell me more about Alipore Zoo.
+Tell me more about Prinsep Ghat.
+Tell me more about Eco Park.
+Tell me more about Nicco Park.
+Tell me more about Park Street.
+Tell me more about South Park Street Cemetery.
+Tell me more about National Library.
+Tell me more about Kumortuli.
+Tell me more about Nandan.
+Tell me more about Mothers Wax Museum.
+Tell me more about Biswa Bangla Gate.
+Tell me more about Salt Lake Stadium.
+Is Kolkata beautiful?
+Have you been to Kolkata?
+What is there to see in Kolkata?
+Tell me about Victorial Memorial.
+Tell me about Howrah Bridge.
+Tell me about Maidan.
+Tell me about Indian Museum.
+Tell me about Fort William.
+Tell me about Birla Planetarium.
+Tell me about Marble Palace.
+Tell me about St Pauls Cathedral.
+Tell me about Science City.
+Tell me about Birla Mandir.
+Tell me about Eden Gardens.
+Tell me about Jorasanko Thakurbari.
+Tell me about Rabindra Sarobar.
+Tell me about Shobhabajar Rajbari.
+Tell me about Kalighat Temple.
+Tell me about Botanical Gardens.
+Tell me about Alipore Zoo.
+Tell me about Prinsep Ghat.
+Tell me about Eco Park.
+Tell me about Nicco Park.
+Tell me about Park Street.
+Tell me about South Park Street Cemetery.
+Tell me about National Library.
+Tell me about Kumortuli.
+Tell me about Nandan.
+Tell me about Mothers Wax Museum.
+Tell me about Biswa Bangla Gate.
+Tell me about Salt Lake Stadium.
+Okay thanks
+Thanks a lot
+Can you tell me anything about Kolkata?
+How much do you know?
+Where can I travel in Kolkata?
+Where can I tour in Kolkata?
+Which places can I visit in Kolkata?
+Suggest some famous places in Kolkata
+Suggest some tourist places in Kolkata
+Is Kolkata a beautiful place?
+Suggest me some famous restaurant in Kolkata
+What are some good restaurants in Kolkata?
+Where can I get good food in Kolkata?
+Places for good food in Kolkata?
+What are you?
+Can I ask you anything about Kolkata?
+Do you have a name?
+Nice name
+Can you suggest me places to visit in Kolkata?
+Can you suggest me restaurants to eat in Kolkata?
+Okay thanks a lot
+What are the cuisines available in Kolkata?
+Suggest me some Bengali cuisine restaurants in Kolkata.
+Whoa, thats a lot of places you suggested.
+Suggest me some North Indian cuisine restaurants in Kolkata.
+Thanks a lot for the information
+Suggest me some Mughlai cuisine restaurants in Kolkata.
+Whoa, thats a lot of places you suggested.
+Suggest me some Chinese cuisine restaurants in Kolkata.
+Okay nice to know
+Suggest me some American cuisine restaurants in Kolkata.
+Good suggestions
+Suggest me some Vegetarian cuisine restaurants in Kolkata.
+Okay thanks for telling
+Suggest me some Seafood restaurants in Kolkata.
+Okay thanks for helping
+Suggest me some Fast food restaurants in Kolkata.
+Thanks a lot
+Suggest me some Cafes in Kolkata.
+Okay
+Suggest me some Buffet restaurants in Kolkata.
+Nice
+Ever been to Kolkata?
+How do you know about Kolkata?
+Can I ask you anything about Kolkata?
+You can answer anything?
+Suggest some places to tour
+What is Victorial Memorial.
+What is Howrah Bridge.
+What is Maidan.
+What is Indian Museum.
+What is Fort William.
+What is Birla Planetarium.
+What is Marble Palace.
+What is St Pauls Cathedral.
+What is Science City.
+What is Birla Mandir.
+What is Eden Gardens.
+What is Jorasanko Thakurbari.
+What is Rabindra Sarobar.
+What is Shobhabajar Rajbari.
+What is Kalighat Temple.
+What is Botanical Gardens.
+What is Alipore Zoo.
+What is Prinsep Ghat.
+What is Eco Park.
+What is Nicco Park.
+What is Park Street.
+What is South Park Street Cemetery.
+What is National Library.
+What is Kumortuli.
+What is Nandan.
+What is Mothers Wax Museum.
+What is Biswa Bangla Gate.
+What is Salt Lake Stadium.
+Bengali cuisine restaurants
+Whoa, thats a lot of places you suggested.
+North Indian cuisine restaurants
+Thanks a lot
+Mughlai cuisine restaurants
+Whoa, thats a lot of places you suggested.
+Chinese cuisine restaurants
+Nice to know
+American cuisine restaurants
+Good suggestions Kolly
+Vegetarian cuisine restaurants
+Okay thanks
+Seafood restaurants
+Okay thanks for helping
+Fast food restaurants
+Thanks a lot
+Cafes
+Okay
+Buffet restaurants
+Nice
+Kolkata is a beautiful city is not it?
+Have you ever been to Kolkata?
+Can you tell me places to tour in Kolkata?
+Can you tell me name of famous restaurants in Kolkata?
+Are there any famous locations in Kolkata?
+Bengali?
+Whoa, thats a lot of places you suggested.
+North Indian?
+Thanks a lot
+Mughlai?
+Whoa, thats a lot of places you suggested.
+Chinese?
+Nice to know
+American?
+Good suggestions Kolly
+Vegetarian?
+Okay thanks for the help
+Seafood?
+Okay thanks for helping
+Fast food restaurants?
+Thanks a lot
+Cafes?
+Okay
+Buffet?
+Nice
+You do know a lot
+Give me some names of restaurants
+Famous restaurants?
+Famous places to eat?
+Victorial Memorial.
+Howrah Bridge.
+Maidan.
+Indian Museum.
+Fort William.
+Birla Planetarium.
+Marble Palace.
+St Pauls Cathedral.
+Science City.
+Birla Mandir.
+Eden Gardens.
+Jorasanko Thakurbari.
+Rabindra Sarobar.
+Shobhabajar Rajbari.
+Kalighat Temple.
+Botanical Gardens.
+Alipore Zoo.
+Prinsep Ghat.
+Eco Park.
+Nicco Park.
+Park Street.
+South Park Street Cemetery.
+National Library.
+Kumortuli.
+Nandan.
+Mothers Wax Museum.
+Biswa Bangla Gate.
+Salt Lake Stadium.
+Kolkata is beautiful?
+Okay
+Show me some Bengali restaurants
+Whoa, thats a lot of places you suggested.
+Show me some North Indian restaurants
+Thanks a lot
+Show me some Mughlai restaurants
+Whoa, thats a lot of places you suggested.
+Show me some Chinese restaurants
+Nice to know
+Show me some American restaurants
+Good suggestions
+Show me some Vegetarian restaurants
+Okay thanks for the help
+Show me some seafood restaurants
+Okay thanks for helping
+Show me some fastfood restaurants
+Thanks a lot
+Show me some Cafes
+Okay
+Show me some buffet restaurants
+Nice
+Do you have a name?
+Nice name
+Have you been to Kolkata?
+Can you suggest me places to travel in Kolkata?
+Where can I tour in Kolkata?
+Where can I travel in Kolkata?
+Places to visit in Kolkata?
+Information on Victorial Memorial.
+Information on Howrah Bridge.
+Information on Maidan.
+Information on Indian Museum.
+Information on Fort William.
+Information on Birla Planetarium.
+Information on Marble Palace.
+Information on St Pauls Cathedral.
+Information on Science City.
+Information on Birla Mandir.
+Information on Eden Gardens.
+Information on Jorasanko Thakurbari.
+Information on Rabindra Sarobar.
+Information on Shobhabajar Rajbari.
+Information on Kalighat Temple.
+Information on Botanical Gardens.
+Information on Alipore Zoo.
+Information on Prinsep Ghat.
+Information on Eco Park.
+Information on Nicco Park.
+Information on Park Street.
+Information on South Park Street Cemetery.
+Information on National Library.
+Information on Kumortuli.
+Information on Nandan.
+Information on Mothers Wax Museum.
+Information on Biswa Bangla Gate.
+Information on Salt Lake Stadium.
+Name some Bengali restaurants
+Whoa, thats a lot of places you suggested.
+Name some North Indian restaurants
+Thanks a lot
+Name some Mughlai restaurants
+Whoa, thats a lot of places you suggested.
+Name some Chinese restaurants
+Nice to know
+Name some American restaurants
+Good suggestions
+Name some Vegetarian restaurants
+Okay thanks for the help
+Name some seafood restaurants
+Okay thanks for helping
+Name some fastfood restaurants
+Thanks a lot
+Name some Cafes
+Okay
+Name some buffet restaurants
+Nice
+What is your name?
+Is your name Kolly?
+What can you do?
+What is Howrah Bridge?
+Give info on Howrah Bridge?
+Can you tell about Howrah Bridge?
+Tell me about Howrah Bridge?
+Howrah Bridge?
+What about Howrah Bridge?
+What is Victoria Memorial?
+Give info on Victoria Memorial?
+Can you tell about Victoria Memorial?
+Tell me about Victoria Memorial?
+Victoria Memorial?
+What about Victoria Memorial?
+What is Maidan?
+Give info on Maidan?
+Can you tell about Maidan?
+Tell me about Maidan?
+Maidan?
+What about Maidan?
+What is Indian Museum?
+Give info on Indian Museum?
+Can you tell about Indian Museum?
+Tell me about Indian Museum?
+Indian Museum?
+What about Indian Museum?
+What is Fort William?
+Give info on Fort William?
+Can you tell about Fort William?
+Tell me about Fort William?
+Fort William?
+What about Fort William?
+What is Birla Planetarium?
+Give info on Birla Planetarium?
+Can you tell about Birla Planetarium?
+Tell me about Birla Planetarium?
+Birla Planetarium?
+What about Birla Planetarium?
+What is Marble Palace?
+Give info on Marble Palace?
+Can you tell about Marble Palace?
+Tell me about Marble Palace?
+Marble Palace?
+What about Marble Palace?
+What is St Pauls Cathedral?
+Give info on St Pauls Cathedral?
+Can you tell about St Pauls Cathedral?
+Tell me about St Pauls Cathedral?
+St Pauls Cathedral?
+What about St Pauls Cathedral?
+What is Science City?
+Give info on Science City?
+Can you tell about Science City?
+Tell me about Science City?
+Science City?
+What about Science City?
+What is Birla Mandir?
+Give info on Birla Mandir?
+Can you tell about Birla Mandir?
+Tell me about Birla Mandir?
+Birla Mandir?
+What about Birla Mandir?
+What is Eden Gardens?
+Give info on Eden Gardens?
+Can you tell about Eden Gardens?
+Tell me about Eden Gardens?
+Eden Gardens?
+What about Eden Gardens?
+What is Jorasanko Thakurbari?
+Give info on Jorasanko Thakurbari?
+Can you tell about Jorasanko Thakurbari?
+Tell me about Jorasanko Thakurbari?
+Jorasanko Thakurbari?
+What about Jorasanko Thakurbari?
+What is Rabindra Sarobar?
+Give info on Rabindra Sarobar?
+Can you tell about Rabindra Sarobar?
+Tell me about Rabindra Sarobar?
+Rabindra Sarobar?
+What about Rabindra Sarobar?
+What is Shobhabajar Rajbari?
+Give info on Shobhabajar Rajbari?
+Can you tell about Shobhabajar Rajbari?
+Tell me about Shobhabajar Rajbari?
+Shobhabajar Rajbari?
+What about Shobhabajar Rajbari?
+What is Kalighat Temple?
+Give info on Kalighat Temple?
+Can you tell about Kalighat Temple?
+Tell me about Kalighat Temple?
+Kalighat Temple?
+What about Kalighat Temple?
+What is Botanical Gardens?
+Give info on Botanical Gardens?
+Can you tell about Botanical Gardens?
+Tell me about Botanical Gardens?
+Botanical Gardens?
+What about Botanical Gardens?
+What is Alipore Zoo?
+Give info on Alipore Zoo?
+Can you tell about Alipore Zoo?
+Tell me about Alipore Zoo?
+Alipore Zoo?
+What about Alipore Zoo?
+What is Prinsep Ghat?
+Give info on Prinsep Ghat?
+Can you tell about Prinsep Ghat?
+Tell me about Prinsep Ghat?
+Prinsep Ghat?
+What about Prinsep Ghat?
+What is Eco Park?
+Give info on Eco Park?
+Can you tell about Eco Park?
+Tell me about Eco Park?
+Eco Park?
+What about Eco Park?
+What is Nicco Park?
+Give info on Nicco Park?
+Can you tell about Nicco Park?
+Tell me about Nicco Park?
+Nicco Park?
+What about Nicco Park?
+What is Park Street?
+Give info on Park Street?
+Can you tell about Park Street?
+Tell me about Park Street?
+Park Street?
+What about Park Street?
+What is South Park Street Cemetery?
+Give info on South Park Street Cemetery?
+Can you tell about South Park Street Cemetery?
+Tell me about South Park Street Cemetery?
+South Park Street Cemetery?
+What about South Park street Cemetery?
+What is National Library?
+Give info on National Library?
+Can you tell about National Library?
+Tell me about National Library?
+National Library?
+What about National Library?
+What is Kumortuli?
+Give info on Kumortuli?
+Can you tell about Kumortuli?
+Tell me about Kumortuli?
+Kumortuli?
+What about Kumortuli?
+What is Nandan?
+Give info on Nandan?
+Can you tell about Nandan?
+Tell me about Nandan?
+Nandan?
+What about Nandan?
+What is Mothers Wax Museum?
+Give info on Mothers Wax Museum?
+Can you tell about Mothers Wax Museum?
+Tell me about Mothers Wax Museum?
+Mothers Wax Museum?
+What about Mothers Wax Museum?
+What is Biswa Bangla Gate?
+Give info on Biswa Bangla Gate?
+Can you tell about Biswa Bangla Gate?
+Tell me about Biswa Bangla Gate?
+Biswa Bangla Gate?
+What about Biswa Bangla gate?
+What is Salt Lake Stadium?
+Give info on Salt Lake Stadium?
+Can you tell about Salt Lake Stadium?
+Tell me about Salt Lake Stadium?
+Salt Lake Stadium?
+What about Salt Lake Stadium?
+Suggest some Bengali restaurants?
+Where can I get Bengali food?
+Is there any Bengali restaurants in kolkata?
+What about Bengali restaurants?
+Suggest some North Indian restaurants?
+Where can I get North Indian food?
+Is there any North Indian restaurants in kolkata?
+What about North Indian restaurants?
+Suggest some Mughlai restaurants?
+Where can I get Mughlai food?
+Is there any Mughlai restaurants in kolkata?
+What about Mughlai restaurants?
+Suggest some Chinese restaurants?
+Where can I get Chinese food?
+Is there any Chinese restaurants in kolkata?
+What about Chinese restaurants?
+Suggest some American restaurants?
+Where can I get American food?
+Is there any American restaurants in kolkata?
+What about American restaurants?
+Suggest some Vegetarian restaurants?
+Where can I get Vegetarian food?
+Is there any Vegetarian restaurants in kolkata?
+What about Vegetarian restaurants?
+Suggest some Seafood restaurants?
+Where can I get Seafood?
+Is there any Seafood restaurants in kolkata?
+What about Seafood restaurants?
+Suggest some Fast Food restaurants?
+Where can I get Fast food?
+Is there any Fast Food restaurants in kolkata?
+What about Fast Food restaurants?
+Suggest some Cafes?
+Where can I get Cafes?
+Is there any Cafes in kolkata?
+What about Cafes?
+Suggest some Buffet restaurants?
+Where can I get Buffet food?
+Is there any Buffet restaurants in kolkata?
+What about Buffet restaurants?
+Tell me about yourself?
+Who are you?
+What is your job?
+What about your job?
+Tell me about tourism in Kolkata?
+What food can I get in Kolkata?
+Tell me about historical places in Kolkata?
+Tell me about Heritages of kolkata?
+What about historical places in Kolkata?
+What about heritages of Kolkata?
+What cuisines can I get?
+Can I get good food in Kolkata?
+Best restaurants in Kolkata?
+Best places to visit in Kolkata?
+restaurants in Kolkata?
+What type of food can I get in Kolkata?
+What type of cuisine can I get in Kolkata? 
+What type of food cuisine can I get in Kolkata?
+famous restaurants in Kolkata?
+You are good
+You are nice
+Can you tell me places for food?
+Can you tell me places for food in Kolkata?
+Can you suggest me restaurants in Kolkata?
+Please tell me cuisines we can get in Kolkata
+What cuisines can we get in Kolkata?
+What type of cuisines can we get in Kolkata?
+What kind of cuisines can we get in Kolkata?
+Can you tell me of cuisines we can get in Kolkata?
+Tell me about cuisines we can get in Kolkata
+Can you tell me about Bengali cuisine in Kolkata?
+Thanks a lot
+Can you tell me about North Indian cuisine in Kolkata?
+Nice
+Can you tell me about Mughlai cuisine in Kolkata?
+Thats wonderful
+Can you tell me about Chinese cuisine in Kolkata?
+Okay
+Can you tell me about American cuisine in Kolkata?
+Okay thanks Kolly
+Can you tell me about Vegetarian cuisine in Kolkata?
+Splendid!
+Can you tell me about Seafood cuisine in Kolkata?
+Thanks a lot
+Can you tell me about Fast food cuisine in Kolkata?
+Thats a lot of info!
+Can you tell me about Cafe in Kolkata?
+Good to know
+Can you tell me about Buffet cuisine in Kolkata?
+Okay
+Hi
+Am fine. How are you?
+What is your name?
+What can you do?
+Is that all you can do?
+Okay, thats nice to know
+Can I ask anything about Kolkata?
+What are the most famous locations of Kolkata?
+Whoa, thats a lot of places you suggested.
+Tell me more about Victorial Memorial.
+Tell me more about Howrah Bridge.
+Tell me more about Maidan.
+Tell me more about Indian Museum.
+Tell me more about Fort William.
+Tell me more about Birla Planetarium.
+Tell me more about Marble Palace.
+Tell me more about St Pauls Cathedral.
+Tell me more about Science City.
+Tell me more about Birla Mandir.
+Tell me more about Eden Gardens.
+Tell me more about Jorasanko Thakurbari.
+Tell me more about Rabindra Sarobar.
+Tell me more about Shobhabajar Rajbari.
+Tell me more about Kalighat Temple.
+Tell me more about Botanical Gardens.
+Tell me more about Alipore Zoo.
+Tell me more about Prinsep Ghat.
+Tell me more about Eco Park.
+Tell me more about Nicco Park.
+Tell me more about Park Street.
+Tell me more about South Park Street Cemetery.
+Tell me more about National Library.
+Tell me more about Kumortuli.
+Tell me more about Nandan.
+Tell me more about Mothers Wax Museum.
+Tell me more about Biswa Bangla Gate.
+Tell me more about Salt Lake Stadium.
+Is Kolkata beautiful?
+Have you been to Kolkata?
+What is there to see in Kolkata?
+Tell me about Victorial Memorial.
+Tell me about Howrah Bridge.
+Tell me about Maidan.
+Tell me about Indian Museum.
+Tell me about Fort William.
+Tell me about Birla Planetarium.
+Tell me about Marble Palace.
+Tell me about St Pauls Cathedral.
+Tell me about Science City.
+Tell me about Birla Mandir.
+Tell me about Eden Gardens.
+Tell me about Jorasanko Thakurbari.
+Tell me about Rabindra Sarobar.
+Tell me about Shobhabajar Rajbari.
+Tell me about Kalighat Temple.
+Tell me about Botanical Gardens.
+Tell me about Alipore Zoo.
+Tell me about Prinsep Ghat.
+Tell me about Eco Park.
+Tell me about Nicco Park.
+Tell me about Park Street.
+Tell me about South Park Street Cemetery.
+Tell me about National Library.
+Tell me about Kumortuli.
+Tell me about Nandan.
+Tell me about Mothers Wax Museum.
+Tell me about Biswa Bangla Gate.
+Tell me about Salt Lake Stadium.
+Okay thanks
+Thanks a lot
+Can you tell me anything about Kolkata?
+How much do you know?
+Where can I travel in Kolkata?
+Where can I tour in Kolkata?
+Which places can I visit in Kolkata?
+Suggest some famous places in Kolkata
+Suggest some tourist places in Kolkata
+Is Kolkata a beautiful place?
+Suggest me some famous restaurant in Kolkata
+What are some good restaurants in Kolkata?
+Where can I get good food in Kolkata?
+Places for good food in Kolkata?
+What are you?
+Can I ask you anything about Kolkata?
+Do you have a name?
+Nice name
+Can you suggest me places to visit in Kolkata?
+Can you suggest me restaurants to eat in Kolkata?
+Okay thanks a lot
+What are the cuisines available in Kolkata?
+Suggest me some Bengali cuisine restaurants in Kolkata.
+Whoa, thats a lot of places you suggested.
+Suggest me some North Indian cuisine restaurants in Kolkata.
+Thanks a lot for the information
+Suggest me some Mughlai cuisine restaurants in Kolkata.
+Whoa, thats a lot of places you suggested.
+Suggest me some Chinese cuisine restaurants in Kolkata.
+Okay nice to know
+Suggest me some American cuisine restaurants in Kolkata.
+Good suggestions
+Suggest me some Vegetarian cuisine restaurants in Kolkata.
+Okay thanks for telling
+Suggest me some Seafood restaurants in Kolkata.
+Okay thanks for helping
+Suggest me some Fast food restaurants in Kolkata.
+Thanks a lot
+Suggest me some Cafes in Kolkata.
+Okay
+Suggest me some Buffet restaurants in Kolkata.
+Nice
+Ever been to Kolkata?
+How do you know about Kolkata?
+Can I ask you anything about Kolkata?
+You can answer anything?
+Suggest some places to tour
+What is Victorial Memorial.
+What is Howrah Bridge.
+What is Maidan.
+What is Indian Museum.
+What is Fort William.
+What is Birla Planetarium.
+What is Marble Palace.
+What is St Pauls Cathedral.
+What is Science City.
+What is Birla Mandir.
+What is Eden Gardens.
+What is Jorasanko Thakurbari.
+What is Rabindra Sarobar.
+What is Shobhabajar Rajbari.
+What is Kalighat Temple.
+What is Botanical Gardens.
+What is Alipore Zoo.
+What is Prinsep Ghat.
+What is Eco Park.
+What is Nicco Park.
+What is Park Street.
+What is South Park Street Cemetery.
+What is National Library.
+What is Kumortuli.
+What is Nandan.
+What is Mothers Wax Museum.
+What is Biswa Bangla Gate.
+What is Salt Lake Stadium.
+Bengali cuisine restaurants
+Whoa, thats a lot of places you suggested.
+North Indian cuisine restaurants
+Thanks a lot
+Mughlai cuisine restaurants
+Whoa, thats a lot of places you suggested.
+Chinese cuisine restaurants
+Nice to know
+American cuisine restaurants
+Good suggestions Kolly
+Vegetarian cuisine restaurants
+Okay thanks
+Seafood restaurants
+Okay thanks for helping
+Fast food restaurants
+Thanks a lot
+Cafes
+Okay
+Buffet restaurants
+Nice
+Kolkata is a beautiful city is not it?
+Have you ever been to Kolkata?
+Can you tell me places to tour in Kolkata?
+Can you tell me name of famous restaurants in Kolkata?
+Are there any famous locations in Kolkata?
+Bengali?
+Whoa, thats a lot of places you suggested.
+North Indian?
+Thanks a lot
+Mughlai?
+Whoa, thats a lot of places you suggested.
+Chinese?
+Nice to know
+American?
+Good suggestions Kolly
+Vegetarian?
+Okay thanks for the help
+Seafood?
+Okay thanks for helping
+Fast food restaurants?
+Thanks a lot
+Cafes?
+Okay
+Buffet?
+Nice
+You do know a lot
+Give me some names of restaurants
+Famous restaurants?
+Famous places to eat?
+Victorial Memorial.
+Howrah Bridge.
+Maidan.
+Indian Museum.
+Fort William.
+Birla Planetarium.
+Marble Palace.
+St Pauls Cathedral.
+Science City.
+Birla Mandir.
+Eden Gardens.
+Jorasanko Thakurbari.
+Rabindra Sarobar.
+Shobhabajar Rajbari.
+Kalighat Temple.
+Botanical Gardens.
+Alipore Zoo.
+Prinsep Ghat.
+Eco Park.
+Nicco Park.
+Park Street.
+South Park Street Cemetery.
+National Library.
+Kumortuli.
+Nandan.
+Mothers Wax Museum.
+Biswa Bangla Gate.
+Salt Lake Stadium.
+Kolkata is beautiful?
+Okay
+Show me some Bengali restaurants
+Whoa, thats a lot of places you suggested.
+Show me some North Indian restaurants
+Thanks a lot
+Show me some Mughlai restaurants
+Whoa, thats a lot of places you suggested.
+Show me some Chinese restaurants
+Nice to know
+Show me some American restaurants
+Good suggestions
+Show me some Vegetarian restaurants
+Okay thanks for the help
+Show me some seafood restaurants
+Okay thanks for helping
+Show me some fastfood restaurants
+Thanks a lot
+Show me some Cafes
+Okay
+Show me some buffet restaurants
+Nice
+Do you have a name?
+Nice name
+Have you been to Kolkata?
+Can you suggest me places to travel in Kolkata?
+Where can I tour in Kolkata?
+Where can I travel in Kolkata?
+Places to visit in Kolkata?
+Information on Victorial Memorial.
+Information on Howrah Bridge.
+Information on Maidan.
+Information on Indian Museum.
+Information on Fort William.
+Information on Birla Planetarium.
+Information on Marble Palace.
+Information on St Pauls Cathedral.
+Information on Science City.
+Information on Birla Mandir.
+Information on Eden Gardens.
+Information on Jorasanko Thakurbari.
+Information on Rabindra Sarobar.
+Information on Shobhabajar Rajbari.
+Information on Kalighat Temple.
+Information on Botanical Gardens.
+Information on Alipore Zoo.
+Information on Prinsep Ghat.
+Information on Eco Park.
+Information on Nicco Park.
+Information on Park Street.
+Information on South Park Street Cemetery.
+Information on National Library.
+Information on Kumortuli.
+Information on Nandan.
+Information on Mothers Wax Museum.
+Information on Biswa Bangla Gate.
+Information on Salt Lake Stadium.
+Name some Bengali restaurants
+Whoa, thats a lot of places you suggested.
+Name some North Indian restaurants
+Thanks a lot
+Name some Mughlai restaurants
+Whoa, thats a lot of places you suggested.
+Name some Chinese restaurants
+Nice to know
+Name some American restaurants
+Good suggestions
+Name some Vegetarian restaurants
+Okay thanks for the help
+Name some seafood restaurants
+Okay thanks for helping
+Name some fastfood restaurants
+Thanks a lot
+Name some Cafes
+Okay
+Name some buffet restaurants
+Nice
+What is your name?
+Is your name Kolly?
+What can you do?
+What is Howrah Bridge?
+Give info on Howrah Bridge?
+Can you tell about Howrah Bridge?
+Tell me about Howrah Bridge?
+Howrah Bridge?
+What about Howrah Bridge?
+What is Victoria Memorial?
+Give info on Victoria Memorial?
+Can you tell about Victoria Memorial?
+Tell me about Victoria Memorial?
+Victoria Memorial?
+What about Victoria Memorial?
+What is Maidan?
+Give info on Maidan?
+Can you tell about Maidan?
+Tell me about Maidan?
+Maidan?
+What about Maidan?
+What is Indian Museum?
+Give info on Indian Museum?
+Can you tell about Indian Museum?
+Tell me about Indian Museum?
+Indian Museum?
+What about Indian Museum?
+What is Fort William?
+Give info on Fort William?
+Can you tell about Fort William?
+Tell me about Fort William?
+Fort William?
+What about Fort William?
+What is Birla Planetarium?
+Give info on Birla Planetarium?
+Can you tell about Birla Planetarium?
+Tell me about Birla Planetarium?
+Birla Planetarium?
+What about Birla Planetarium?
+What is Marble Palace?
+Give info on Marble Palace?
+Can you tell about Marble Palace?
+Tell me about Marble Palace?
+Marble Palace?
+What about Marble Palace?
+What is St Pauls Cathedral?
+Give info on St Pauls Cathedral?
+Can you tell about St Pauls Cathedral?
+Tell me about St Pauls Cathedral?
+St Pauls Cathedral?
+What about St Pauls Cathedral?
+What is Science City?
+Give info on Science City?
+Can you tell about Science City?
+Tell me about Science City?
+Science City?
+What about Science City?
+What is Birla Mandir?
+Give info on Birla Mandir?
+Can you tell about Birla Mandir?
+Tell me about Birla Mandir?
+Birla Mandir?
+What about Birla Mandir?
+What is Eden Gardens?
+Give info on Eden Gardens?
+Can you tell about Eden Gardens?
+Tell me about Eden Gardens?
+Eden Gardens?
+What about Eden Gardens?
+What is Jorasanko Thakurbari?
+Give info on Jorasanko Thakurbari?
+Can you tell about Jorasanko Thakurbari?
+Tell me about Jorasanko Thakurbari?
+Jorasanko Thakurbari?
+What about Jorasanko Thakurbari?
+What is Rabindra Sarobar?
+Give info on Rabindra Sarobar?
+Can you tell about Rabindra Sarobar?
+Tell me about Rabindra Sarobar?
+Rabindra Sarobar?
+What about Rabindra Sarobar?
+What is Shobhabajar Rajbari?
+Give info on Shobhabajar Rajbari?
+Can you tell about Shobhabajar Rajbari?
+Tell me about Shobhabajar Rajbari?
+Shobhabajar Rajbari?
+What about Shobhabajar Rajbari?
+What is Kalighat Temple?
+Give info on Kalighat Temple?
+Can you tell about Kalighat Temple?
+Tell me about Kalighat Temple?
+Kalighat Temple?
+What about Kalighat Temple?
+What is Botanical Gardens?
+Give info on Botanical Gardens?
+Can you tell about Botanical Gardens?
+Tell me about Botanical Gardens?
+Botanical Gardens?
+What about Botanical Gardens?
+What is Alipore Zoo?
+Give info on Alipore Zoo?
+Can you tell about Alipore Zoo?
+Tell me about Alipore Zoo?
+Alipore Zoo?
+What about Alipore Zoo?
+What is Prinsep Ghat?
+Give info on Prinsep Ghat?
+Can you tell about Prinsep Ghat?
+Tell me about Prinsep Ghat?
+Prinsep Ghat?
+What about Prinsep Ghat?
+What is Eco Park?
+Give info on Eco Park?
+Can you tell about Eco Park?
+Tell me about Eco Park?
+Eco Park?
+What about Eco Park?
+What is Nicco Park?
+Give info on Nicco Park?
+Can you tell about Nicco Park?
+Tell me about Nicco Park?
+Nicco Park?
+What about Nicco Park?
+What is Park Street?
+Give info on Park Street?
+Can you tell about Park Street?
+Tell me about Park Street?
+Park Street?
+What about Park Street?
+What is South Park Street Cemetery?
+Give info on South Park Street Cemetery?
+Can you tell about South Park Street Cemetery?
+Tell me about South Park Street Cemetery?
+South Park Street Cemetery?
+What about South Park street Cemetery?
+What is National Library?
+Give info on National Library?
+Can you tell about National Library?
+Tell me about National Library?
+National Library?
+What about National Library?
+What is Kumortuli?
+Give info on Kumortuli?
+Can you tell about Kumortuli?
+Tell me about Kumortuli?
+Kumortuli?
+What about Kumortuli?
+What is Nandan?
+Give info on Nandan?
+Can you tell about Nandan?
+Tell me about Nandan?
+Nandan?
+What about Nandan?
+What is Mothers Wax Museum?
+Give info on Mothers Wax Museum?
+Can you tell about Mothers Wax Museum?
+Tell me about Mothers Wax Museum?
+Mothers Wax Museum?
+What about Mothers Wax Museum?
+What is Biswa Bangla Gate?
+Give info on Biswa Bangla Gate?
+Can you tell about Biswa Bangla Gate?
+Tell me about Biswa Bangla Gate?
+Biswa Bangla Gate?
+What about Biswa Bangla gate?
+What is Salt Lake Stadium?
+Give info on Salt Lake Stadium?
+Can you tell about Salt Lake Stadium?
+Tell me about Salt Lake Stadium?
+Salt Lake Stadium?
+What about Salt Lake Stadium?
+Suggest some Bengali restaurants?
+Where can I get Bengali food?
+Is there any Bengali restaurants in kolkata?
+What about Bengali restaurants?
+Suggest some North Indian restaurants?
+Where can I get North Indian food?
+Is there any North Indian restaurants in kolkata?
+What about North Indian restaurants?
+Suggest some Mughlai restaurants?
+Where can I get Mughlai food?
+Is there any Mughlai restaurants in kolkata?
+What about Mughlai restaurants?
+Suggest some Chinese restaurants?
+Where can I get Chinese food?
+Is there any Chinese restaurants in kolkata?
+What about Chinese restaurants?
+Suggest some American restaurants?
+Where can I get American food?
+Is there any American restaurants in kolkata?
+What about American restaurants?
+Suggest some Vegetarian restaurants?
+Where can I get Vegetarian food?
+Is there any Vegetarian restaurants in kolkata?
+What about Vegetarian restaurants?
+Suggest some Seafood restaurants?
+Where can I get Seafood?
+Is there any Seafood restaurants in kolkata?
+What about Seafood restaurants?
+Suggest some Fast Food restaurants?
+Where can I get Fast food?
+Is there any Fast Food restaurants in kolkata?
+What about Fast Food restaurants?
+Suggest some Cafes?
+Where can I get Cafes?
+Is there any Cafes in kolkata?
+What about Cafes?
+Suggest some Buffet restaurants?
+Where can I get Buffet food?
+Is there any Buffet restaurants in kolkata?
+What about Buffet restaurants?
+Tell me about yourself?
+Who are you?
+What is your job?
+What about your job?
+Tell me about tourism in Kolkata?
+What food can I get in Kolkata?
+Tell me about historical places in Kolkata?
+Tell me about Heritages of kolkata?
+What about historical places in Kolkata?
+What about heritages of Kolkata?
+What cuisines can I get?
+Can I get good food in Kolkata?
+Best restaurants in Kolkata?
+Best places to visit in Kolkata?
+restaurants in Kolkata?
+What type of food can I get in Kolkata?
+What type of cuisine can I get in Kolkata? 
+What type of food cuisine can I get in Kolkata?
+famous restaurants in Kolkata?
+You are good
+What is your name?
+What can you do?
+Is that all you can do?
+Okay, thats nice to know
+Can I ask anything about Kolkata?
+What are the most famous locations of Kolkata?
+Whoa, thats a lot of places you suggested.
+Tell me more about Victorial Memorial.
+Tell me more about Howrah Bridge.
+Tell me more about Maidan.
+Tell me more about Indian Museum.
+Tell me more about Fort William.
+Tell me more about Birla Planetarium.
+Tell me more about Marble Palace.
+Tell me more about St Pauls Cathedral.
+Tell me more about Science City.
+Tell me more about Birla Mandir.
+Tell me more about Eden Gardens.
+Tell me more about Jorasanko Thakurbari.
+Tell me more about Rabindra Sarobar.
+Tell me more about Shobhabajar Rajbari.
+Tell me more about Kalighat Temple.
+Tell me more about Botanical Gardens.
+Tell me more about Alipore Zoo.
+Tell me more about Prinsep Ghat.
+Tell me more about Eco Park.
+Tell me more about Nicco Park.
+Tell me more about Park Street.
+Tell me more about South Park Street Cemetery.
+Tell me more about National Library.
+Tell me more about Kumortuli.
+Tell me more about Nandan.
+Tell me more about Mothers Wax Museum.
+Tell me more about Biswa Bangla Gate.
+Tell me more about Salt Lake Stadium.
+Is Kolkata beautiful?
+Have you been to Kolkata?
+What is there to see in Kolkata?
+Tell me about Victorial Memorial.
+Tell me about Howrah Bridge.
+Tell me about Maidan.
+Tell me about Indian Museum.
+Tell me about Fort William.
+Tell me about Birla Planetarium.
+Tell me about Marble Palace.
+Tell me about St Pauls Cathedral.
+Tell me about Science City.
+Tell me about Birla Mandir.
+Tell me about Eden Gardens.
+Tell me about Jorasanko Thakurbari.
+Tell me about Rabindra Sarobar.
+Tell me about Shobhabajar Rajbari.
+Tell me about Kalighat Temple.
+Tell me about Botanical Gardens.
+Tell me about Alipore Zoo.
+Tell me about Prinsep Ghat.
+Tell me about Eco Park.
+Tell me about Nicco Park.
+Tell me about Park Street.
+Tell me about South Park Street Cemetery.
+Tell me about National Library.
+Tell me about Kumortuli.
+Tell me about Nandan.
+Tell me about Mothers Wax Museum.
+Tell me about Biswa Bangla Gate.
+Tell me about Salt Lake Stadium.
+Okay thanks
+Thanks a lot
+Can you tell me anything about Kolkata?
+How much do you know?
+Where can I travel in Kolkata?
+Where can I tour in Kolkata?
+Which places can I visit in Kolkata?
+Suggest some famous places in Kolkata
+Suggest some tourist places in Kolkata
+Is Kolkata a beautiful place?
+Suggest me some famous restaurant in Kolkata
+What are some good restaurants in Kolkata?
+Where can I get good food in Kolkata?
+Places for good food in Kolkata?
+What are you?
+Can I ask you anything about Kolkata?
+Do you have a name?
+Nice name
+Can you suggest me places to visit in Kolkata?
+Can you suggest me restaurants to eat in Kolkata?
+Okay thanks a lot
+What are the cuisines available in Kolkata?
+Suggest me some Bengali cuisine restaurants in Kolkata.
+Whoa, thats a lot of places you suggested.
+Suggest me some North Indian cuisine restaurants in Kolkata.
+Thanks a lot for the information
+Suggest me some Mughlai cuisine restaurants in Kolkata.
+Whoa, thats a lot of places you suggested.
+Suggest me some Chinese cuisine restaurants in Kolkata.
+Okay nice to know
+Suggest me some American cuisine restaurants in Kolkata.
+Good suggestions
+Suggest me some Vegetarian cuisine restaurants in Kolkata.
+Okay thanks for telling
+Suggest me some Seafood restaurants in Kolkata.
+Okay thanks for helping
+Suggest me some Fast food restaurants in Kolkata.
+Thanks a lot
+Suggest me some Cafes in Kolkata.
+Okay
+Suggest me some Buffet restaurants in Kolkata.
+Nice
+Ever been to Kolkata?
+How do you know about Kolkata?
+Can I ask you anything about Kolkata?
+You can answer anything?
+Suggest some places to tour
+What is Victorial Memorial.
+What is Howrah Bridge.
+What is Maidan.
+What is Indian Museum.
+What is Fort William.
+What is Birla Planetarium.
+What is Marble Palace.
+What is St Pauls Cathedral.
+What is Science City.
+What is Birla Mandir.
+What is Eden Gardens.
+What is Jorasanko Thakurbari.
+What is Rabindra Sarobar.
+What is Shobhabajar Rajbari.
+What is Kalighat Temple.
+What is Botanical Gardens.
+What is Alipore Zoo.
+What is Prinsep Ghat.
+What is Eco Park.
+What is Nicco Park.
+What is Park Street.
+What is South Park Street Cemetery.
+What is National Library.
+What is Kumortuli.
+What is Nandan.
+What is Mothers Wax Museum.
+What is Biswa Bangla Gate.
+What is Salt Lake Stadium.
+Bengali cuisine restaurants
+Whoa, thats a lot of places you suggested.
+North Indian cuisine restaurants
+Thanks a lot
+Mughlai cuisine restaurants
+Whoa, thats a lot of places you suggested.
+Chinese cuisine restaurants
+Nice to know
+American cuisine restaurants
+Good suggestions Kolly
+Vegetarian cuisine restaurants
+Okay thanks
+Seafood restaurants
+Okay thanks for helping
+Fast food restaurants
+Thanks a lot
+Cafes
+Okay
+Buffet restaurants
+Nice
+Kolkata is a beautiful city is not it?
+Have you ever been to Kolkata?
+Can you tell me places to tour in Kolkata?
+Can you tell me name of famous restaurants in Kolkata?
+Are there any famous locations in Kolkata?
+Bengali?
+Whoa, thats a lot of places you suggested.
+North Indian?
+Thanks a lot
+Mughlai?
+Whoa, thats a lot of places you suggested.
+Chinese?
+Nice to know
+American?
+Good suggestions Kolly
+Vegetarian?
+Okay thanks for the help
+Seafood?
+Okay thanks for helping
+Fast food restaurants?
+Thanks a lot
+Cafes?
+Okay
+Buffet?
+Nice
+You do know a lot
+Give me some names of restaurants
+Famous restaurants?
+Famous places to eat?
+Victorial Memorial.
+Howrah Bridge.
+Maidan.
+Indian Museum.
+Fort William.
+Birla Planetarium.
+Marble Palace.
+St Pauls Cathedral.
+Science City.
+Birla Mandir.
+Eden Gardens.
+Jorasanko Thakurbari.
+Rabindra Sarobar.
+Shobhabajar Rajbari.
+Kalighat Temple.
+Botanical Gardens.
+Alipore Zoo.
+Prinsep Ghat.
+Eco Park.
+Nicco Park.
+Park Street.
+South Park Street Cemetery.
+National Library.
+Kumortuli.
+Nandan.
+Mothers Wax Museum.
+Biswa Bangla Gate.
+Salt Lake Stadium.
+Kolkata is beautiful?
+Okay
+Show me some Bengali restaurants
+Whoa, thats a lot of places you suggested.
+Show me some North Indian restaurants
+Thanks a lot
+Show me some Mughlai restaurants
+Whoa, thats a lot of places you suggested.
+Show me some Chinese restaurants
+Nice to know
+Show me some American restaurants
+Good suggestions
+Show me some Vegetarian restaurants
+Okay thanks for the help
+Show me some seafood restaurants
+Okay thanks for helping
+Show me some fastfood restaurants
+Thanks a lot
+Show me some Cafes
+Okay
+Show me some buffet restaurants
+Nice
+Do you have a name?
+Nice name
+Have you been to Kolkata?
+Can you suggest me places to travel in Kolkata?
+Where can I tour in Kolkata?
+Where can I travel in Kolkata?
+Places to visit in Kolkata?
+Information on Victorial Memorial.
+Information on Howrah Bridge.
+Information on Maidan.
+Information on Indian Museum.
+Information on Fort William.
+Information on Birla Planetarium.
+Information on Marble Palace.
+Information on St Pauls Cathedral.
+Information on Science City.
+Information on Birla Mandir.
+Information on Eden Gardens.
+Information on Jorasanko Thakurbari.
+Information on Rabindra Sarobar.
+Information on Shobhabajar Rajbari.
+Information on Kalighat Temple.
+Information on Botanical Gardens.
+Information on Alipore Zoo.
+Information on Prinsep Ghat.
+Information on Eco Park.
+Information on Nicco Park.
+Information on Park Street.
+Information on South Park Street Cemetery.
+Information on National Library.
+Information on Kumortuli.
+Information on Nandan.
+Information on Mothers Wax Museum.
+Information on Biswa Bangla Gate.
+Information on Salt Lake Stadium.
+Name some Bengali restaurants
+Whoa, thats a lot of places you suggested.
+Name some North Indian restaurants
+Thanks a lot
+Name some Mughlai restaurants
+Whoa, thats a lot of places you suggested.
+Name some Chinese restaurants
+Nice to know
+Name some American restaurants
+Good suggestions
+Name some Vegetarian restaurants
+Okay thanks for the help
+Name some seafood restaurants
+Okay thanks for helping
+Name some fastfood restaurants
+Thanks a lot
+Name some Cafes
+Okay
+Name some buffet restaurants
+Nice
+What is your name?
+Is your name Kolly?
+What can you do?
+What is Howrah Bridge?
+Give info on Howrah Bridge?
+Can you tell about Howrah Bridge?
+Tell me about Howrah Bridge?
+Howrah Bridge?
+What about Howrah Bridge?
+What is Victoria Memorial?
+Give info on Victoria Memorial?
+Can you tell about Victoria Memorial?
+Tell me about Victoria Memorial?
+Victoria Memorial?
+What about Victoria Memorial?
+What is Maidan?
+Give info on Maidan?
+Can you tell about Maidan?
+Tell me about Maidan?
+Maidan?
+What about Maidan?
+What is Indian Museum?
+Give info on Indian Museum?
+Can you tell about Indian Museum?
+Tell me about Indian Museum?
+Indian Museum?
+What about Indian Museum?
+What is Fort William?
+Give info on Fort William?
+Can you tell about Fort William?
+Tell me about Fort William?
+Fort William?
+What about Fort William?
+What is Birla Planetarium?
+Give info on Birla Planetarium?
+Can you tell about Birla Planetarium?
+Tell me about Birla Planetarium?
+Birla Planetarium?
+What about Birla Planetarium?
+What is Marble Palace?
+Give info on Marble Palace?
+Can you tell about Marble Palace?
+Tell me about Marble Palace?
+Marble Palace?
+What about Marble Palace?
+What is St Pauls Cathedral?
+Give info on St Pauls Cathedral?
+Can you tell about St Pauls Cathedral?
+Tell me about St Pauls Cathedral?
+St Pauls Cathedral?
+What about St Pauls Cathedral?
+What is Science City?
+Give info on Science City?
+Can you tell about Science City?
+Tell me about Science City?
+Science City?
+What about Science City?
+What is Birla Mandir?
+Give info on Birla Mandir?
+Can you tell about Birla Mandir?
+Tell me about Birla Mandir?
+Birla Mandir?
+What about Birla Mandir?
+What is Eden Gardens?
+Give info on Eden Gardens?
+Can you tell about Eden Gardens?
+Tell me about Eden Gardens?
+Eden Gardens?
+What about Eden Gardens?
+What is Jorasanko Thakurbari?
+Give info on Jorasanko Thakurbari?
+Can you tell about Jorasanko Thakurbari?
+Tell me about Jorasanko Thakurbari?
+Jorasanko Thakurbari?
+What about Jorasanko Thakurbari?
+What is Rabindra Sarobar?
+Give info on Rabindra Sarobar?
+Can you tell about Rabindra Sarobar?
+Tell me about Rabindra Sarobar?
+Rabindra Sarobar?
+What about Rabindra Sarobar?
+What is Shobhabajar Rajbari?
+Give info on Shobhabajar Rajbari?
+Can you tell about Shobhabajar Rajbari?
+Tell me about Shobhabajar Rajbari?
+Shobhabajar Rajbari?
+What about Shobhabajar Rajbari?
+What is Kalighat Temple?
+Give info on Kalighat Temple?
+Can you tell about Kalighat Temple?
+Tell me about Kalighat Temple?
+Kalighat Temple?
+What about Kalighat Temple?
+What is Botanical Gardens?
+Give info on Botanical Gardens?
+Can you tell about Botanical Gardens?
+Tell me about Botanical Gardens?
+Botanical Gardens?
+What about Botanical Gardens?
+What is Alipore Zoo?
+Give info on Alipore Zoo?
+Can you tell about Alipore Zoo?
+Tell me about Alipore Zoo?
+Alipore Zoo?
+What about Alipore Zoo?
+What is Prinsep Ghat?
+Give info on Prinsep Ghat?
+Can you tell about Prinsep Ghat?
+Tell me about Prinsep Ghat?
+Prinsep Ghat?
+What about Prinsep Ghat?
+What is Eco Park?
+Give info on Eco Park?
+Can you tell about Eco Park?
+Tell me about Eco Park?
+Eco Park?
+What about Eco Park?
+What is Nicco Park?
+Give info on Nicco Park?
+Can you tell about Nicco Park?
+Tell me about Nicco Park?
+Nicco Park?
+What about Nicco Park?
+What is Park Street?
+Give info on Park Street?
+Can you tell about Park Street?
+Tell me about Park Street?
+Park Street?
+What about Park Street?
+What is South Park Street Cemetery?
+Give info on South Park Street Cemetery?
+Can you tell about South Park Street Cemetery?
+Tell me about South Park Street Cemetery?
+South Park Street Cemetery?
+What about South Park street Cemetery?
+What is National Library?
+Give info on National Library?
+Can you tell about National Library?
+Tell me about National Library?
+National Library?
+What about National Library?
+What is Kumortuli?
+Give info on Kumortuli?
+Can you tell about Kumortuli?
+Tell me about Kumortuli?
+Kumortuli?
+What about Kumortuli?
+What is Nandan?
+Give info on Nandan?
+Can you tell about Nandan?
+Tell me about Nandan?
+Nandan?
+What about Nandan?
+What is Mothers Wax Museum?
+Give info on Mothers Wax Museum?
+Can you tell about Mothers Wax Museum?
+Tell me about Mothers Wax Museum?
+Mothers Wax Museum?
+What about Mothers Wax Museum?
+What is Biswa Bangla Gate?
+Give info on Biswa Bangla Gate?
+Can you tell about Biswa Bangla Gate?
+Tell me about Biswa Bangla Gate?
+Biswa Bangla Gate?
+What about Biswa Bangla gate?
+What is Salt Lake Stadium?
+Give info on Salt Lake Stadium?
+Can you tell about Salt Lake Stadium?
+Tell me about Salt Lake Stadium?
+Salt Lake Stadium?
+What about Salt Lake Stadium?
+Suggest some Bengali restaurants?
+Where can I get Bengali food?
+Is there any Bengali restaurants in kolkata?
+What about Bengali restaurants?
+Suggest some North Indian restaurants?
+Where can I get North Indian food?
+Is there any North Indian restaurants in kolkata?
+What about North Indian restaurants?
+Suggest some Mughlai restaurants?
+Where can I get Mughlai food?
+Is there any Mughlai restaurants in kolkata?
+What about Mughlai restaurants?
+Suggest some Chinese restaurants?
+Where can I get Chinese food?
+Is there any Chinese restaurants in kolkata?
+What about Chinese restaurants?
+Suggest some American restaurants?
+Where can I get American food?
+Is there any American restaurants in kolkata?
+What about American restaurants?
+Suggest some Vegetarian restaurants?
+Where can I get Vegetarian food?
+Is there any Vegetarian restaurants in kolkata?
+What about Vegetarian restaurants?
+Suggest some Seafood restaurants?
+Where can I get Seafood?
+Is there any Seafood restaurants in kolkata?
+What about Seafood restaurants?
+Suggest some Fast Food restaurants?
+Where can I get Fast food?
+Is there any Fast Food restaurants in kolkata?
+What about Fast Food restaurants?
+Suggest some Cafes?
+Where can I get Cafes?
+Is there any Cafes in kolkata?
+What about Cafes?
+Suggest some Buffet restaurants?
+Where can I get Buffet food?
+Is there any Buffet restaurants in kolkata?
+What about Buffet restaurants?
+Tell me about yourself?
+Who are you?
+What is your job?
+What about your job?
+Tell me about tourism in Kolkata?
+What food can I get in Kolkata?
+Tell me about historical places in Kolkata?
+Tell me about Heritages of kolkata?
+What about historical places in Kolkata?
+What about heritages of Kolkata?
+What cuisines can I get?
+Can I get good food in Kolkata?
+Best restaurants in Kolkata?
+Best places to visit in Kolkata?
+restaurants in Kolkata?
+What type of food can I get in Kolkata?
+What type of cuisine can I get in Kolkata? 
+What type of food cuisine can I get in Kolkata?
+famous restaurants in Kolkata?
+You are good
+You are nice
+Can you tell me places for food?
+Can you tell me places for food in Kolkata?
+Can you suggest me restaurants in Kolkata?
+Please tell me cuisines we can get in Kolkata
+What cuisines can we get in Kolkata?
+What type of cuisines can we get in Kolkata?
+What kind of cuisines can we get in Kolkata?
+Can you tell me of cuisines we can get in Kolkata?
+Tell me about cuisines we can get in Kolkata
+Can you tell me about Bengali cuisine in Kolkata?
+Thanks a lot
+Can you tell me about North Indian cuisine in Kolkata?
+Nice
+Can you tell me about Mughlai cuisine in Kolkata?
+Thats wonderful
+Can you tell me about Chinese cuisine in Kolkata?
+Okay
+Can you tell me about American cuisine in Kolkata?
+Okay thanks Kolly
+Can you tell me about Vegetarian cuisine in Kolkata?
+Splendid!
+Can you tell me about Seafood cuisine in Kolkata?
+Thanks a lot
+Can you tell me about Fast food cuisine in Kolkata?
+Thats a lot of info!
+Can you tell me about Cafe in Kolkata?
+Good to know
+Can you tell me about Buffet cuisine in Kolkata?
+Okay

@@ -1,0 +1,1084 @@
+﻿Hi there, how are you?
+Am fine. 
+My name is Kolly!
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+Okay, happy to help
+You can, I will try my best to answer them
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Okay, happy to help
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India. 
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course. 
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery. 
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000. 
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born. 
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres. 
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2.2 million books. 
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85,000. It is the second largest stadium in India by seating capacity.
+Yes
+No
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India. 
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course. 
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery. 
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000. 
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born. 
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres. 
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2.2 million books. 
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85,000. It is the second largest stadium in India by seating capacity.
+Okay, happy to help
+Okay, happy to help
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.  I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.  Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Yes
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+You can, I will try my best to answer them
+My name is Kolly!
+Okay, happy to help
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Okay, happy to help
+Bengali, North Indian, Mughlai, Chinese, American, Vegetarian, Sea food, Fast Food, Cafes and Buffet restaurants.
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+Okay, happy to help
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+Okay, happy to help
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel. 
+Okay, happy to help
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Okay, happy to help
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Okay, happy to help
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+Okay, happy to help
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+Okay, happy to help
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al- Firdaus Fast Food.
+Okay, happy to help
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking, .
+Okay, happy to help
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+Okay, happy to help
+No
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+You can, I will try my best to answer them 
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India. 
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course. 
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery. 
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000. 
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born. 
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres. 
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2.2 million books. 
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85,000. It is the second largest stadium in India by seating capacity.
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+Okay, happy to help
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+Okay, happy to help
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel. 
+Okay, happy to help
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Okay, happy to help
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Okay, happy to help
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+Okay, happy to help
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+Okay, happy to help
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al-Firdaus Fast Food.
+Okay, happy to help
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking
+Okay, happy to help
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+Okay, happy to help
+Yes
+No
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+Okay, happy to help
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+Okay, happy to help
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel. 
+Okay, happy to help
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Okay, happy to help
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Okay, happy to help
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+Okay, happy to help
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+Okay, happy to help
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al-Firdaus Fast Food.
+Okay, happy to help
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking
+Okay, happy to help
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+Okay, happy to help
+Okay, happy to help
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India. 
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course. 
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery. 
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000. 
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born. 
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres. 
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2.2 million books. 
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85,000. It is the second largest stadium in India by seating capacity.
+Yes
+Okay, happy to help
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+Okay, happy to help
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+Okay, happy to help
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel. 
+Okay, happy to help
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Okay, happy to help
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Okay, happy to help
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+Okay, happy to help
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+Okay, happy to help
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al-Firdaus Fast Food.
+Okay, happy to help
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking
+Okay, happy to help
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+Okay, happy to help
+My name is Kolly!
+Okay, happy to help
+No
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India. 
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course. 
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery. 
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000. 
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born. 
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres. 
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2.2 million books. 
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85,000. It is the second largest stadium in India by seating capacity.
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+Okay, happy to help
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+Okay, happy to help
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel. 
+Okay, happy to help
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Okay, happy to help
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Okay, happy to help
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+Okay, happy to help
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+Okay, happy to help
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al-Firdaus Fast Food.
+Okay, happy to help
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking
+Okay, happy to help
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+Okay, happy to help
+My name is Kolly!
+My name is Kolly!
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course.
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery.
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000.
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born.
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born.
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born.
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born.
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born.
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born.
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres.
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2 million books.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2 million books.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2 million books.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2 million books.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2 million books.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2 million books.
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85000. It is the second largest stadium in India by seating capacity.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85000. It is the second largest stadium in India by seating capacity.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85000. It is the second largest stadium in India by seating capacity.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85000. It is the second largest stadium in India by seating capacity.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85000. It is the second largest stadium in India by seating capacity.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85000. It is the second largest stadium in India by seating capacity.
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel.
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel.
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel.
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel.
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al-Firdaus Fast Food.
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al-Firdaus Fast Food.
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al-Firdaus Fast Food.
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al-Firdaus Fast Food.
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Okay, happy to help
+My name is Kolly!
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+Okay, happy to help
+You can, I will try my best to answer them
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Okay, happy to help
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India. 
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course. 
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery. 
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000. 
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born. 
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres. 
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2.2 million books. 
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85,000. It is the second largest stadium in India by seating capacity.
+Yes
+No
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India. 
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course. 
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery. 
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000. 
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born. 
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres. 
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2.2 million books. 
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85,000. It is the second largest stadium in India by seating capacity.
+Okay, happy to help
+Okay, happy to help
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Yes
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+You can, I will try my best to answer them
+My name is Kolly!
+Okay, happy to help
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Okay, happy to help
+Bengali, North Indian, Mughlai, Chinese, American, Vegetarian, Sea food, Fast Food, Cafes and Buffet restaurants.
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+Okay, happy to help
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+Okay, happy to help
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel. 
+Okay, happy to help
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Okay, happy to help
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Okay, happy to help
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+Okay, happy to help
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+Okay, happy to help
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al- Firdaus Fast Food.
+Okay, happy to help
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking, .
+Okay, happy to help
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+Okay, happy to help
+No
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+You can, I will try my best to answer them 
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India. 
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course. 
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery. 
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000. 
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born. 
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres. 
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2.2 million books. 
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85,000. It is the second largest stadium in India by seating capacity.
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+Okay, happy to help
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+Okay, happy to help
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel. 
+Okay, happy to help
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Okay, happy to help
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Okay, happy to help
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+Okay, happy to help
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+Okay, happy to help
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al-Firdaus Fast Food.
+Okay, happy to help
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking
+Okay, happy to help
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+Okay, happy to help
+Yes
+No
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+Okay, happy to help
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+Okay, happy to help
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel. 
+Okay, happy to help
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Okay, happy to help
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Okay, happy to help
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+Okay, happy to help
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+Okay, happy to help
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al-Firdaus Fast Food.
+Okay, happy to help
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking
+Okay, happy to help
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+Okay, happy to help
+Okay, happy to help
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India. 
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course. 
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery. 
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000. 
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born. 
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres. 
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2.2 million books. 
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85,000. It is the second largest stadium in India by seating capacity.
+Yes
+Okay, happy to help
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+Okay, happy to help
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+Okay, happy to help
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel. 
+Okay, happy to help
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Okay, happy to help
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Okay, happy to help
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+Okay, happy to help
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+Okay, happy to help
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al-Firdaus Fast Food.
+Okay, happy to help
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking
+Okay, happy to help
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+Okay, happy to help
+My name is Kolly!
+Okay, happy to help
+No
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India. 
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course. 
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery. 
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000. 
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born. 
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres. 
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2.2 million books. 
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85,000. It is the second largest stadium in India by seating capacity.
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+Okay, happy to help
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+Okay, happy to help
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel. 
+Okay, happy to help
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Okay, happy to help
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Okay, happy to help
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+Okay, happy to help
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+Okay, happy to help
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al-Firdaus Fast Food.
+Okay, happy to help
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking
+Okay, happy to help
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+Okay, happy to help
+My name is Kolly!
+My name is Kolly!
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+Howrah Bridge is one of the busiest cantilever bridge.Built over the Hooghly River, it connects the twin cities of Howrah and Kolkata.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India.
+The Victoria Memorial is a large exquisite marble building in Kolkata which was built between 1906 and 1921, dedicated to the memory of Queen Victoria, then Empress of India.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course.
+The Maidan, literally meaning an open field, is the largest urban park in Kolkata, vast stretch of field that includes numerous play grounds, including Eden Gardens and the Kolkata Race Course.
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+The Indian Museum is the ninth oldest museum of the world, oldest museum in India and the largest museum in India. It has rare collections of antiques, armours and Mughal paintings.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+Fort William is a fort in Hastings, Kolkata. It was built during the early years of the Bengal Presidency of British India. The fort was named after King William III.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery.
+The Birla Planetarium is the largest planetarium in Asia and the second largest planetarium in the world, famous for its astronomy gallery.
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+Marble Palace is a palatial nineteenth century mansion in North Kolkata built in  Neoclassical style, famous for its marble sculptures.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+St. Pauls Cathedral is the largest church in Kolkata. It is of Anglican background, noted for its Gothic architecture and dedicated to Paul the Apostle.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+The Science City of Kolkata is the largest science centre in the Indian subcontinent. The main motto of the Science City is the popularisation of science.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+Birla Mandir in Kolkata, is a Hindu temple built by the industrialist Birla family, devoted to Lord Krishna.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000.
+The Eden Gardens is an iconic cricket ground in Kolkata established in 1864. It is the oldest and second largest cricket stadium in India with a capacity of 80,000.
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born.
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born.
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born.
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born.
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born.
+Jorasanko Thakur Bari is the ancestral home of the Tagore family located on the RBU campus where the poet and first non-European Nobel laureate, Rabindranath Tagore, was born.
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Rabindra Sarobar is an artificial lake in South Kolkata, named after great Bengali writer and Nobel Laureate, Rabindranath Tagore.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Shobhabazar Rajbari is the palace of the Shobhabazar royal family located in Kolkata where the first Durga Puja was celebrated in 1757 on a grand scale.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata, dedicated to the Hindu goddess Kali.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Acharya Jagadish Chandra Bose Indian Botanic Garden is situated in Shibpur, Howrah near Kolkata. The gardens exhibit a wide variety of rare plants and a total collection of over 12,000 specimens spread over 109 hectares.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres.
+The Zoological Garden, Alipore is Indias oldest zoological park and a big tourist attraction in Kolkata. It has been open as a zoo since 1876 and covers 46.48 acres.
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Prinsep Ghat is a ghat built in 1841 along the Kolkata bank of the Hooghly River, in the memory of the eminent Anglo-Indian scholar and antiquary James Prinsep.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Eco Park is an urban park in New Town, Kolkata and the biggest park so far in India. The park is situated on a 480 acres plot, surrounded by a 104 acres waterbody.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Nicco Park is an amusement park located in Salt Lake City, Kolkata, created to attract tourists to the state by providing family friendly recreation as well as educative entertainment.
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+Park Street, a famous thoroughfare in the city of Kolkata, remains Kolkatas foremost dining district with many restaurants and pubs. It is often known as "Food Street" and "The Street that Never Sleeps".
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+South Park Street Cemetery, located on Park Street, was one of the earliest non-church cemeteries in the world, and probably the largest Christian cemetery outside Europe and America in the 19th century.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2 million books.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2 million books.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2 million books.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2 million books.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2 million books.
+The National Library, Kolkata, is the largest library in the country, with a collection of over 2 million books.
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+If you’re looking for the ultimate cultural tour of Kolkata, turn your gaze towards the artistic lanes of Kumortuli, home to skilled potters, where Durga idols are sculpted with devotion and perfection.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Nandan is a government sponsored film and cultural centre in Kolkata. The primary aim of the cultural hub is to encourage and facilitate cinematic awareness in society.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Mothers Wax Museum is a wax museum located in New Town, Kolkata, containing wax statues of more than 50 personalities. The museum has been named after Mother Teresa.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+Biswa Bangla Gate, popularly known as Kolkata Gate, is the new icon of a rising Bengal, the same way London Eye is for the UK and Eiffel Tower is for Paris.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85000. It is the second largest stadium in India by seating capacity.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85000. It is the second largest stadium in India by seating capacity.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85000. It is the second largest stadium in India by seating capacity.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85000. It is the second largest stadium in India by seating capacity.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85000. It is the second largest stadium in India by seating capacity.
+The Salt Lake Stadium, is a multipurpose stadium in Kolkata, with a current capacity of 85000. It is the second largest stadium in India by seating capacity.
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel.
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel.
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel.
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel.
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al-Firdaus Fast Food.
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al-Firdaus Fast Food.
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al-Firdaus Fast Food.
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al-Firdaus Fast Food.
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+I am a travel chatbot and can tell you about famous locations, food, restaurants in Kolkata.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Victoria Memorial, Howrah Bridge, Indian Museum, Fort William, Birla Planetarium, Marble Palace, St Pauls Cathedral, Science City, Birla Mandir, Eden Gardens, Jorasanko Thakurbari, Rabindra Sarovar, Shobhabazar Rajbari, Kalighat Temple, Botanical Gardens, Alipore Zoo, Prinsep Ghat, Eco Park, Nicco Park, Park Street, South Park Street Cemetery, National Library, Kumortuli, Nandan, Mothers Wax Museum, Biswa Bangla Gate, Salt Lake Stadium.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Okay, happy to help
+Okay, happy to help
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Aminia, Arsalan, Mitra Cafe, Coffee House, 6 Ballygunge Place, Peter Cat, Zeeshan, Mocambo, Oudh 1590, Barbeque Nation, Haka, Mainland China.
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+Bengali, Mughlai, North Indian, Chinese, American, Fast Food, Cafe, Buffet, Seafood, Vegetarian
+6 Ballygunge Place, Bohemian, Kasturi, The Bhoj company, Bhojohori Manna, Saptapadi, Koshe Kosha, Posto, Oh! Calcutta, Kewpies.
+Okay, happy to help
+New Indian Restaurant, Peter Cat, Saffron, Rang De Basanti Dhaba, Peshawri, Arsalan, India Restaurant, Azad Hind Dhaba, Mahek-E-Punjab, Amber, Tandoor House.
+Okay, happy to help
+Zeeshan, Sufi Palace, Nizams Restaurant, Aminia , Royal Indian Restaurant, Kareems, India Restaurant, New Aliah Restaurant, Zam Zam Restaurant, Arsalan, Mezban Restaurant, Oudh 1590, The Awadh Restaurant, Lazeez, Tandoor House, Dada Boudi Biryani, Kabuliwala, Shiraz- Golden Restaurant, Sabirs Hotel. 
+Okay, happy to help
+Tung Nam Eating House, Tung Fong Restaurant, Mainland China, Hong Kong Chinese Restaurant, Haka, Golden Joy Restaurant, Bar-B-Q, China Town Restaurant, Big Boss Restaurant, Golden Dragon, Beijing Restaurant, Royal Jade, Kim Ling, Krystal Chopstick, Chowman, Chung Wah, Jimmys Kitchen, Hatari Restaurant, Asia Kitchen, Buddha Bites.
+Okay, happy to help
+Hard Rock Cafe, Chillis, TGI Fridays, Macazzo, Wild West Tavern, UNO Chicago Bar & Grill, Saz, Biggies Burger, McDonalds, KFC, Subway, My Big Fat Belly, Mocambo, Peter Cat, Steak Factory.
+Okay, happy to help
+Anand Veg Restaurant, Saatvik Pure Veg Restaurant, Fly Kouzina, Hakuna Matata Restaurant, Plush-28, Bombay Shiv Sagar, The Chutney Co., Govindas, Haldiram Prabhuji, Indies, Thakur Mahal, Banana Leaf, Jalapenos, Cafe Four by one.
+Okay, happy to help
+The Coastal Macha, Ocean Grill, Pisces Restaurant, Ecstasea, Charcoal Grill, Fusion Fantasea, Bijoli Grill, Rendezvous, Chitto Babur dokan.
+Okay, happy to help
+Kusum Rolls, Mitra Cafe, Allen Kitchen, Abhinandan Food, Taskeen, Arafat Fast Food, Tiretti bazar Road side Chinese Breakfast, FoodPath, McDonalds , Subway , KFC, Dominos, Aaheli Express, Al Baik Fast Food Corner, Al-Firdaus Fast Food.
+Okay, happy to help
+Indian Coffee House, Calcutta 64, Mitra Cafe, Cafe Coffee Day, Cafe coffee o Kobita, Blue Mug Cafe, Cafe By The Lane, The Country House, Starbucks, The Wood House, Whats Up! Cafe, Cafe Mezzuna, Sienna Cafe, The Crepe cafe, Bon Appetit, The Seven Kingdom, Karma Kettle, The Green House, Snacking
+Okay, happy to help
+Barbeque Nation, Sigree Global Grill, Haka, WEDESI, Mainland China, 6 Ballygunge Place, Ocean Grill, Flame N Grill, Chapter 2, Social Kitchen, Tung Fong, ITC Sonar Bangla, JW Kitchen, ITC Royal Bengal, Rendezvous, Chai Break, Mio amore Restaurant, The Wall.
+Okay, happy to help
