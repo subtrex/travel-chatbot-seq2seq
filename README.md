@@ -1,2 +1,5 @@
-# Travel_Chatbot_Seq2Seq
-A generative type travel chatbot using Seq2Seq model
+# Generative type Travel Chatbot using Seq2Seq model
+
+A chatbot is an intelligent software that can simulate the conversation with a user in natural language. It can convincingly emulate the way a real human being would converse with another human being. Chatbots have the ability to learn from their experiences. They will integrate all the experience learning into its skillset and help the user to find its required result with effiency. In the past decade, the use of chatbots has grown manifold. They are being used in handling customer queries, technical consultancy, recommending products in the e-commerce domain, virtual counseling of students, etc. 
+Chatbots are broadly classified into retrieval and generative type. Retrieval type chatbots have a knowledge base of predefined responses from which it chooses the best answer for the user query. A machine learning model is used to recognize the intent and entities of the user query, and respond with a suitable answer. They are generally closed domain chatbots. A generative type chatbot does not use any predefined repository. Instead, it generates a text response based on the training corpus using natural language generation. They are generally open domain chatbots. 
+We have designed a generative type travel chatbot which majorly focuses on the Kolkata tourism domain. It has been designed on the seq2seq model, also called the encoder-decoder model, using LSTM (Long Short Term Memory) for text generation from training corpus.
